@@ -8,6 +8,8 @@ import ollama
 
 # Read the original data
 df = pd.read_csv("jobs.csv")
+if "source" not in df.columns:
+    df["source"] = "LinkedIn"
 df["description"] = df["description"].fillna("")
 
 

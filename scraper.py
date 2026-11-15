@@ -22,6 +22,9 @@ SEARCH_URL = (
     "&location=Tunisia"
 )
 DETAIL_URL = "https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/{job_id}"
+TANITJOBS_URL = "https://www.tanitjobs.com/categories/977/stage-jobs/"
+SOURCE_LINKEDIN = "LinkedIn"
+SOURCE_TANITJOBS = "TanitJobs"
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0"
 )
@@ -29,7 +32,7 @@ USER_AGENT = (
 CSV_PATH = "jobs.csv"
 COLUMNS = [
     "id", "title", "company", "location", "posted_at",
-    "url", "description", "company_url", "scraped_at", "dedupe_key",
+    "url", "description", "company_url", "scraped_at", "dedupe_key", "source",
 ]
 SHOW_BROWSER = False   # True = show the Firefox window (debugging)
 MAX_JOBS = 10        # safety limit; LinkedIn's public search stops around 1000 anyway
@@ -51,6 +54,28 @@ def make_dedupe_key(job: dict) -> str:
     company = clean(job.get("company"))
     location = clean(job.get("location"))
     return f"{title}|{company}|{location}"
+
+
+def ensure_csv_schema() -> None:
+    """Add the source column to older CSV files, treating existing rows as LinkedIn."""
+    if not os.path.exists(CSV_PATH):
+        return
+
+    with open(CSV_PATH, newline="", encoding="utf-8-sig") as f:
+        reader = csv.DictReader(f)
+        if "source" in (reader.fieldnames or []):
+            return
+        rows = list(reader)
+
+    temporary_path = f"{CSV_PATH}.tmp"
+    with open(temporary_path, "w", newline="", encoding="utf-8-sig") as f:
+        writer = csv.DictWriter(f, fieldnames=COLUMNS)
+        writer.writeheader()
+        for row in rows:
+            row["source"] = SOURCE_LINKEDIN
+            writer.writerow({column: row.get(column, "") for column in COLUMNS})
+    os.replace(temporary_path, CSV_PATH)
+
 
 def load_known():
     """Read the CSV once and return the IDs and dedupe keys we already have."""
@@ -176,8 +201,70 @@ def get_jobs_links(driver, max_jobs: int):
                 "location": safe_text(card, "span.job-search-card__location"),
                 "posted_at": safe_attr(card, "time", "datetime"),
                 "url": safe_attr(card, "a.base-card__full-link", "href").split("?")[0],
+                "source": SOURCE_LINKEDIN,
             }
         )
+    return jobs
+
+
+def is_pfe_listing(title: str, description: str) -> bool:
+    text = clean(f"{title} {description}")
+    pattern = (
+        r"\b(pfe|projets? de fin d['’]études|stages? de fin d['’]études|"
+        r"final[ -]+year project|end[ -]+of[ -]+study internship)\b"
+    )
+    return re.search(pattern, text) is not None
+
+
+def get_tanitjobs_links(driver, max_jobs: int):
+    """Read PFE listings from TanitJobs' Stage category."""
+    print(f"  [TanitJobs] Opening category: {TANITJOBS_URL}")
+    driver.get(TANITJOBS_URL)
+    try:
+        WebDriverWait(driver, 15).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, ".sj-job-card"))
+        )
+    except TimeoutException:
+        print("  no TanitJobs results found")
+        return []
+
+    jobs = []
+    cards = driver.find_elements(By.CSS_SELECTOR, ".sj-job-card")
+    print(f"  [TanitJobs] Listing cards found: {len(cards)}")
+    for index, card in enumerate(cards, start=1):
+        title = safe_text(card, ".sj-card-title")
+        description = safe_text(card, ".sj-card-desc")
+        print(f"  [TanitJobs] Card {index}/{len(cards)}: {title or '<missing title>'}")
+        if not is_pfe_listing(title, description):
+            print("    skipped: no PFE/final-year-project wording in title or preview")
+            continue
+
+        url = safe_attr(card, ".sj-card-title a", "href").split("?")[0]
+        match = re.search(r"/job/(\d+)/", url)
+        if not match:
+            print(f"    skipped: could not extract job ID from URL {url!r}")
+            continue
+
+        job = {
+            "id": f"tanitjobs-{match.group(1)}",
+            "title": title,
+            "company": safe_text(card, ".sj-card-company a"),
+            "location": safe_text(card, ".sj-card-tag.sj-loc"),
+            "posted_at": safe_text(card, ".sj-card-date"),
+            "url": url,
+            "description": description,
+            "company_url": "",
+            "source": SOURCE_TANITJOBS,
+        }
+        jobs.append(job)
+        print(
+            f"    extracted: id={job['id']}, company={job['company']!r}, "
+            f"location={job['location']!r}, preview_chars={len(description)}, url={url}"
+        )
+        if len(jobs) >= max_jobs:
+            print(f"  [TanitJobs] Reached max_jobs={max_jobs}")
+            break
+    print(f"  [TanitJobs] PFE listings extracted: {len(jobs)}")
     return jobs
 
 
@@ -212,42 +299,85 @@ def get_job_details(driver, job: dict) -> bool:
     return True
 
 
+def get_tanitjobs_details(driver, job: dict) -> bool:
+    """Load the full TanitJobs description, retaining the card preview if unavailable."""
+    print(f"    [TanitJobs] Loading detail page: {job['url']}")
+    driver.get(job["url"])
+    try:
+        element = WebDriverWait(driver, 8).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, ".detail-offre"))
+        )
+        job["description"] = html_to_text(element.get_attribute("innerHTML"))
+        print(f"    [TanitJobs] Full description extracted: {len(job['description'])} chars")
+    except TimeoutException:
+        print(
+            f"    [TanitJobs] Detail description not found; keeping "
+            f"{len(job['description'])} preview chars"
+        )
+    return True
+
+
 # ---------------------------------------------------------------- main
-def scrape(driver) -> int:
-    """Run the one search, save every new job. Returns how many were saved."""
-    print(f"\nSearching: {SEARCH_URL}")
-    cards = get_jobs_links(driver, MAX_JOBS)
+def scrape_source(driver, source: str, get_cards, get_details) -> int:
+    print(f"\nSearching {source}")
+    cards = get_cards(driver, MAX_JOBS)
     if cards is None:
-        raise RuntimeError("blocked")
+        print(f"  {source} did not return results")
+        return 0
+    print(f"  [{source}] Listings returned by source parser: {len(cards)}")
 
     # keep only jobs we do not have yet (by ID or by title+company+location)
     known_ids, known_keys = load_known()
     new_jobs = []
+    duplicate_ids = 0
+    duplicate_keys = 0
     for job in cards:
         key = make_dedupe_key(job)
-        if job["id"] in known_ids or key in known_keys:
+        if job["id"] in known_ids:
+            duplicate_ids += 1
+            print(f"  [{source}] duplicate ID, skipping {job['id']}: {job['title']}")
+            continue
+        if key in known_keys:
+            duplicate_keys += 1
+            print(f"  [{source}] duplicate title/company/location, skipping: {job['title']}")
             continue
         known_ids.add(job["id"])
         known_keys.add(key)
         job["dedupe_key"] = key
         new_jobs.append(job)
-    print(f"  {len(new_jobs)} new jobs out of {len(cards)}")
+    print(
+        f"  [{source}] new={len(new_jobs)}, duplicate_ids={duplicate_ids}, "
+        f"duplicate_keys={duplicate_keys}, existing_rows={len(load_known()[0])}"
+    )
 
     saved = 0
     for i, job in enumerate(new_jobs, start=1):
         print(f"  details {i}/{len(new_jobs)}: {job['title']} @ {job['company']}")
         try:
-            ok = get_job_details(driver, job)
+            ok = get_details(driver, job)
         except (TimeoutException, WebDriverException) as e:
             print(f"    error: {e.__class__.__name__}, skipping")
             continue
         if not ok:
-            raise RuntimeError("blocked")
+            print(f"  {source} blocked this session")
+            break
+        print(f"    description_chars={len(job.get('description', ''))}")
         job["scraped_at"] = datetime.now(timezone.utc).isoformat()
         save_job(job)  # written immediately, so a crash never loses earlier jobs
         saved += 1
+        print(f"    saved: source={source}, id={job['id']}, file={CSV_PATH}")
         polite_sleep()
+    print(f"  [{source}] Saved {saved} new listings")
     return saved
+
+
+def scrape(driver) -> int:
+    ensure_csv_schema()
+    return scrape_source(
+        driver, SOURCE_LINKEDIN, get_jobs_links, get_job_details
+    ) + scrape_source(
+        driver, SOURCE_TANITJOBS, get_tanitjobs_links, get_tanitjobs_details
+    )
 
 
 
@@ -256,8 +386,6 @@ def run() -> None:
     new_count = 0
     try:
         new_count = scrape(driver)
-    except RuntimeError:
-        print("LinkedIn blocked this session. Try again later (hours, not minutes).")
     finally:
         driver.quit()
     total = len(load_known()[0])
