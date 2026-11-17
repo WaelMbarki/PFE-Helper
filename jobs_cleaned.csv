@@ -1,4 +1,4 @@
-﻿id,title,company,location,posted_at,url,description,company_url,scraped_at,dedupe_key,technical_skills,education_type,required_experience,job_domain,domain_method
+﻿id,title,company,location,posted_at,url,description,company_url,scraped_at,dedupe_key,source,technical_skills,education_type,required_experience,job_domain,domain_method
 4489428407,Stages PFE 2026,Loansquare,"Tunis, Gouvernorat Tunis, Tunisie",2026-11-10,https://tn.linkedin.com/jobs/view/stages-pfe-2026-at-loansquare-4489428407,"About Us
 
 WHY Linedata?
@@ -81,7 +81,7 @@ Compétences Attendues
 
 Job Requirement
 
-Pour postuler, nous vous invitons à envoyer votre candidature à l'adresse mail suivante : Recrutement.Tunisie@se.linedata.com",https://fr.linkedin.com/company/loansquare,2026-11-14T09:23:01.937066+00:00,"stages pfe 2026|loansquare|tunis, gouvernorat tunis, tunisie","[""Machine Learning"", ""NLP"", ""Data Science"", ""Microservices"", ""Automation""]","[""engineering"", ""master""]",[],"[""AI"", ""Data Science"", ""Web Development"", ""Software Engineering"", ""Cloud and DevOps"", ""Human Resources"", ""Business and Finance"", ""Quality Assurance""]",rules
+Pour postuler, nous vous invitons à envoyer votre candidature à l'adresse mail suivante : Recrutement.Tunisie@se.linedata.com",https://fr.linkedin.com/company/loansquare,2026-11-14T09:23:01.937066+00:00,"stages pfe 2026|loansquare|tunis, gouvernorat tunis, tunisie",LinkedIn,"[""Machine Learning"", ""NLP"", ""Data Science"", ""Microservices"", ""Automation""]","[""engineering"", ""master""]",[],"[""AI"", ""Data Science"", ""Web Development"", ""Software Engineering"", ""Cloud and DevOps"", ""Human Resources"", ""Business and Finance"", ""Quality Assurance""]",rules
 4485471441,Stage PFE – IA & Automatisation : Optimisation de la gestion des tickets IT (H/F),CAFPI,"Tunis, Gouvernorat Tunis, Tunisie",2026-11-04,https://tn.linkedin.com/jobs/view/stage-pfe-%E2%80%93-ia-automatisation-optimisation-de-la-gestion-des-tickets-it-h-f-at-cafpi-4485471441,"À propos de CAFPI
 Fondé en 1971, CAFPI est l'un des leaders du courtage en prêts immobiliers en France. Basée à Tunis, CAFPI SERVICES Tunisie réunit plus de 120 collaborateurs (IT, Back Office, Front Office, Qualité, Finance & Risques, Audit, RH) qui travaillent au quotidien avec les agences et la Direction Générale de CAFPI SAS.
 
@@ -110,7 +110,7 @@ Conditions
 - Stage de fin d'études (PFE) de 6 mois
 - Lieu : CAFPI SERVICES Tunisie, Les Berges du Lac, Tunis (sur site)
 - Gratification : 300 DT par mois + tickets restaurant
-- Encadrement par l'équipe IT / Support, avec des points de suivi réguliers",https://fr.linkedin.com/company/cafpi-groupe,2026-11-14T09:23:06.896162+00:00,"stage pfe – ia & automatisation : optimisation de la gestion des tickets it (h/f)|cafpi|tunis, gouvernorat tunis, tunisie","[""Automation""]","[""engineering"", ""master""]",[],"[""Business and Finance""]",rules
+- Encadrement par l'équipe IT / Support, avec des points de suivi réguliers",https://fr.linkedin.com/company/cafpi-groupe,2026-11-14T09:23:06.896162+00:00,"stage pfe – ia & automatisation : optimisation de la gestion des tickets it (h/f)|cafpi|tunis, gouvernorat tunis, tunisie",LinkedIn,"[""Automation""]","[""engineering"", ""master""]",[],"[""Business and Finance""]",rules
 4489251413,Stage PFE – Ingénieur DevOps Mobile : Plateforme interne de build & déploiement (H/F),CAFPI,"Tunis, Gouvernorat Tunis, Tunisie",2026-11-12,https://tn.linkedin.com/jobs/view/stage-pfe-%E2%80%93-ing%C3%A9nieur-devops-mobile-plateforme-interne-de-build-d%C3%A9ploiement-h-f-at-cafpi-4489251413,"À propos de CAFPI
 Fondé en 1971, CAFPI est l'un des leaders du courtage en prêts immobiliers en France. Basée à Tunis, CAFPI SERVICES Tunisie réunit plus de 120 collaborateurs (IT, Back Office, Front Office, Qualité, Finance & Risques, Audit, RH) qui travaillent au quotidien avec les agences et la Direction Générale de CAFPI SAS.
 
@@ -147,7 +147,7 @@ Conditions
 - Stage de fin d'études (PFE) de 6 mois – stage de pré-embauche
 - Lieu : CAFPI SERVICES Tunisie, Les Berges du Lac, Tunis (sur site)
 - Stage rémunéré
-- Encadrement : équipe IT (développement mobile & DevOps), avec des points de suivi réguliers",https://fr.linkedin.com/company/cafpi-groupe,2026-11-14T09:23:12.103634+00:00,"stage pfe – ingénieur devops mobile : plateforme interne de build & déploiement (h/f)|cafpi|tunis, gouvernorat tunis, tunisie","[""Azure"", ""Angular"", ""Git""]","[""master""]",[],"[""Web Development"", ""Mobile Development"", ""Cloud and DevOps"", ""Business and Finance""]",rules
+- Encadrement : équipe IT (développement mobile & DevOps), avec des points de suivi réguliers",https://fr.linkedin.com/company/cafpi-groupe,2026-11-14T09:23:12.103634+00:00,"stage pfe – ingénieur devops mobile : plateforme interne de build & déploiement (h/f)|cafpi|tunis, gouvernorat tunis, tunisie",LinkedIn,"[""Azure"", ""Angular"", ""Git""]","[""master""]",[],"[""Web Development"", ""Mobile Development"", ""Cloud and DevOps"", ""Business and Finance""]",rules
 4487188289,Stagiaire PFE - Data : Talk to My Data sur Databricks et Snowflake F/H,KPMG Tunisia,"Tunis, Gouvernorat Tunis, Tunisie",2026-11-09,https://tn.linkedin.com/jobs/view/stagiaire-pfe-data-talk-to-my-data-sur-databricks-et-snowflake-f-h-at-kpmg-tunisia-4487188289,"Vos Challenges
 
 Vos missions, en tant que stagiaire Data Engineer F/H sont :
@@ -176,7 +176,7 @@ Votre Profil
 -  Vous appréciez le travail en équipe et savez documenter vos choix fonctionnels et techniques.
 -  Vous maîtrisez le français et l’anglais dans un environnement professionnel.
 
-Votre environnement de travail",https://tn.linkedin.com/company/kpmg-tunisia,2026-11-14T09:23:17.888674+00:00,"stagiaire pfe - data : talk to my data sur databricks et snowflake f/h|kpmg tunisia|tunis, gouvernorat tunis, tunisie","[""Python"", ""SQL"", ""Data Science"", ""Git"", ""Software Testing""]","[""engineering""]","[""-  Une première expérience de Databricks, de Snowflake ou d’une plateforme Data Cloud serait appréciée.""]","[""AI"", ""Data Science""]",rules
+Votre environnement de travail",https://tn.linkedin.com/company/kpmg-tunisia,2026-11-14T09:23:17.888674+00:00,"stagiaire pfe - data : talk to my data sur databricks et snowflake f/h|kpmg tunisia|tunis, gouvernorat tunis, tunisie",LinkedIn,"[""Python"", ""SQL"", ""Data Science"", ""Git"", ""Software Testing""]","[""engineering""]","[""-  Une première expérience de Databricks, de Snowflake ou d’une plateforme Data Cloud serait appréciée.""]","[""AI"", ""Data Science""]",rules
 4487194033,Stagiaire PFE - Client & Market : Optimisation du site web comme levier de Business Development et de génération d’opportunités commerciales F/H,KPMG Tunisia,"Tunis, Gouvernorat Tunis, Tunisie",2026-11-09,https://tn.linkedin.com/jobs/view/stagiaire-pfe-client-market-optimisation-du-site-web-comme-levier-de-business-development-et-de-g%C3%A9n%C3%A9ration-d%E2%80%99opportunit%C3%A9s-commerciales-f-h-at-kpmg-tunisia-4487194033,"Vos Challenges
 
 From Website to Business : Optimisation du site web comme levier de Business Development et de génération d’opportunités commerciales.
@@ -213,7 +213,7 @@ Les livrables attendus : Un document final construit autour des chapitres suivan
 - Benchmark digital
 - Diagnostic SEO et Web Analytics
 - Modèle de génération et de qualification des leads
-- Roadmap opérationnelle",https://tn.linkedin.com/company/kpmg-tunisia,2026-11-14T09:23:23.102924+00:00,"stagiaire pfe - client & market : optimisation du site web comme levier de business development et de génération d’opportunités commerciales f/h|kpmg tunisia|tunis, gouvernorat tunis, tunisie","[""Power BI"", ""Excel""]","[""unspecified""]",[],"[""Marketing and Communication""]",rules
+- Roadmap opérationnelle",https://tn.linkedin.com/company/kpmg-tunisia,2026-11-14T09:23:23.102924+00:00,"stagiaire pfe - client & market : optimisation du site web comme levier de business development et de génération d’opportunités commerciales f/h|kpmg tunisia|tunis, gouvernorat tunis, tunisie",LinkedIn,"[""Power BI"", ""Excel""]","[""unspecified""]",[],"[""Marketing and Communication""]",rules
 4490733504,Software Development PFE Internship (Paid),Harvest Group,"Gouvernorat Sousse, Tunisie",2026-11-13,https://tn.linkedin.com/jobs/view/software-development-pfe-internship-paid-at-harvest-group-4490733504,"Harvest Group is looking for a motivated final-year student to join our team for a PFE (end-of-studies) internship in software development. You’ll work on real products, learn from experienced engineers, and build skills that set you up for a strong start to your career
 
 About Harvest Group
@@ -269,7 +269,7 @@ What We Offer
 
 How To Apply
 
-Send us your resume in English. Resumes in other languages will not be considered.",https://www.linkedin.com/company/the-harvest-group,2026-11-14T09:23:27.775194+00:00,"software development pfe internship (paid)|harvest group|gouvernorat sousse, tunisie","[""Python"", ""React"", ""Git"", ""JavaScript"", ""TypeScript""]","[""engineering"", ""master"", ""license""]",[],"[""Software Engineering""]",rules
+Send us your resume in English. Resumes in other languages will not be considered.",https://www.linkedin.com/company/the-harvest-group,2026-11-14T09:23:27.775194+00:00,"software development pfe internship (paid)|harvest group|gouvernorat sousse, tunisie",LinkedIn,"[""Python"", ""React"", ""Git"", ""JavaScript"", ""TypeScript""]","[""engineering"", ""master"", ""license""]",[],"[""Software Engineering""]",rules
 4490326595,Stage PFE:Business Development & International Expansion,Auto Sans Risque,"Tunis, Gouvernorat Tunis, Tunisie",2026-11-12,https://tn.linkedin.com/jobs/view/stage-pfe-business-development-international-expansion-at-auto-sans-risque-4490326595,"Auto Sans Risque est une startup technologique tunisienne qui transforme le marché de l'automobile d'occasion grâce à une plateforme digitale dédiée à l'inspection et au diagnostic automobile.
 Notre mission est de renforcer la transparence et la confiance dans les transactions automobiles en connectant les particuliers, les professionnels et les experts automobiles à travers des solutions digitales innovantes.
 
@@ -321,7 +321,7 @@ En collaboration directe avec la direction, vous participerez à la mise en œuv
 Vous êtes ambitieux(se), autonome et souhaitez contribuer au développement d'une startup innovante avec des ambitions internationales ?
 Envoyez votre CV accompagné de quelques lignes de motivation à :
 📧 info@auto-sans-risque.com
-Rejoignez Auto Sans Risque et participez à la transformation du marché automobile ! 🚗",https://tn.linkedin.com/company/auto-sans-risque,2026-11-14T09:23:31.576430+00:00,"stage pfe:business development & international expansion|auto sans risque|tunis, gouvernorat tunis, tunisie",[],"[""master"", ""license""]",[],"[""Marketing and Communication""]",rules
+Rejoignez Auto Sans Risque et participez à la transformation du marché automobile ! 🚗",https://tn.linkedin.com/company/auto-sans-risque,2026-11-14T09:23:31.576430+00:00,"stage pfe:business development & international expansion|auto sans risque|tunis, gouvernorat tunis, tunisie",LinkedIn,[],"[""master"", ""license""]",[],"[""Marketing and Communication""]",rules
 4488721245,PFE Design produit Enceinte audio de luxe,"Hera Events, Deco & Co","Tunis, Gouvernorat Tunis, Tunisie",2026-11-07,https://tn.linkedin.com/jobs/view/pfe-design-produit-enceinte-audio-de-luxe-at-hera-events-deco-co-4488721245,"H-ROW recrute deux stagiaires PFE en design, au S1 2027, en Tunisie.
 H-ROW est un atelier acoustique haut de gamme. Nous redonnons vie à des haut-parleurs vintage d’exception en concevant autour d’eux de nouvelles enceintes, habillées de bois méditerranéens comme l’olivier et le palmier. Luxe, seconde vie, savoir-faire : notre première enceinte, Julia, est prête à prendre forme.
 Deux postes, une équipe :
@@ -346,7 +346,7 @@ Ce que nous offrons
 - Un vrai produit, fabriqué et commercialisé en Europe
 - Une liberté créative réelle
 - Un suivi hebdomadaire par le fondateur
-Candidature : CV et portfolio à aymen@hera.events, en précisant le poste visé.",https://tn.linkedin.com/company/heraeventsdecoandco,2026-11-14T09:23:34.832598+00:00,"pfe design produit enceinte audio de luxe|hera events, deco & co|tunis, gouvernorat tunis, tunisie","[""SolidWorks""]","[""unspecified""]",[],"[""Marketing and Communication""]",rules
+Candidature : CV et portfolio à aymen@hera.events, en précisant le poste visé.",https://tn.linkedin.com/company/heraeventsdecoandco,2026-11-14T09:23:34.832598+00:00,"pfe design produit enceinte audio de luxe|hera events, deco & co|tunis, gouvernorat tunis, tunisie",LinkedIn,"[""SolidWorks""]","[""unspecified""]",[],"[""Marketing and Communication""]",rules
 4486423432,Digital Marketing & Public Relation Intern,Four Seasons,"Tunis, Gouvernorat Tunis, Tunisie",2026-11-02,https://tn.linkedin.com/jobs/view/digital-marketing-public-relation-intern-at-four-seasons-4486423432,"About Four Seasons
 
 Four Seasons is powered by our people. We are a collective of individuals who crave to become better, to push ourselves to new heights and to treat each other as we wish to be treated in return. Our team members around the world create amazing experiences for our guests, residents, and partners through a commitment to luxury with genuine heart. We know that the best way to enable our people to deliver these exceptional guest experiences is through a world-class employee experience and company culture.
@@ -397,7 +397,7 @@ What We Offer
 
 Schedule & Hours
 
-- Full Time",https://ca.linkedin.com/company/four-seasons-hotels-and-resorts,2026-11-14T09:23:38.937405+00:00,"digital marketing & public relation intern|four seasons|tunis, gouvernorat tunis, tunisie","[""Excel""]","[""unspecified""]","[""- Hands-on experience in a luxury hospitality environment while supporting real marketing and public relations initiatives.""]","[""Marketing and Communication""]",rules
+- Full Time",https://ca.linkedin.com/company/four-seasons-hotels-and-resorts,2026-11-14T09:23:38.937405+00:00,"digital marketing & public relation intern|four seasons|tunis, gouvernorat tunis, tunisie",LinkedIn,"[""Excel""]","[""unspecified""]","[""- Hands-on experience in a luxury hospitality environment while supporting real marketing and public relations initiatives.""]","[""Marketing and Communication""]",rules
 4483379564,PFE | Technical Support Intern | Incident Clustering and Risk Alert,Regnology,"Gouvernorat Tunis, Tunisie",2026-10-25,https://tn.linkedin.com/jobs/view/pfe-technical-support-intern-incident-clustering-and-risk-alert-at-regnology-4483379564,"At Regnology our greatest asset is our people. We value diversity and foster an inclusive environment that supports learning, safety, and growth. By investing in our team, listening to customers, and encouraging creativity, we drive continuous innovation and improvement.
 We offer a flexible, innovative environment where your ideas matter and your career can thrive.
 Regnology is a global leader in regulatory reporting, helping financial institutions, regulators, and tax authorities improve data quality, efficiency, and cost savings. Our mission: to safeguard financial markets through smarter, future-ready solutions.
@@ -465,4 +465,525 @@ Recruitment Process
 
 If you are eager to explore the intersection of technical support, data analysis, and incident intelligence, this internship is an opportunity to develop your technical skills in an international professional environment and gain valuable insight into monitoring and troubleshooting enterprise regulatory reporting platforms.
 
-Apply now!",https://de.linkedin.com/company/regnology,2026-11-14T09:23:42.228411+00:00,"pfe | technical support intern | incident clustering and risk alert|regnology|gouvernorat tunis, tunisie","[""Python"", ""Java"", ""SQL"", ""Data Analysis"", ""Kubernetes"", ""Linux""]","[""unspecified""]",[],"[""Data Analysis"", ""Cloud and DevOps"", ""Technical Support"", ""Marketing and Communication""]",rules
+Apply now!",https://de.linkedin.com/company/regnology,2026-11-14T09:23:42.228411+00:00,"pfe | technical support intern | incident clustering and risk alert|regnology|gouvernorat tunis, tunisie",LinkedIn,"[""Python"", ""Java"", ""SQL"", ""Data Analysis"", ""Kubernetes"", ""Linux""]","[""unspecified""]",[],"[""Data Analysis"", ""Cloud and DevOps"", ""Technical Support"", ""Marketing and Communication""]",rules
+4491218337,PFE Design produit Enceinte audio HiFi,"Hera Events, Deco & Co","Tunis, Tunis, Tunisia",2026-11-15,https://tn.linkedin.com/jobs/view/pfe-design-produit-enceinte-audio-hifi-at-hera-events-deco-co-4491218337,"H-ROW recrute deux stagiaires PFE en design, au S1 2027, en Tunisie.
+
+H-ROW est un atelier acoustique haut de gamme. Nous redonnons vie à des haut-parleurs vintage d’exception en concevant autour d’eux de nouvelles enceintes, habillées de bois méditerranéens comme l’olivier et le palmier. Luxe, seconde vie, savoir-faire : notre première enceinte, Julia, est prête à prendre forme.
+
+Deux postes, une équipe :
+Stagiaire 1 : Design graphique et identité de marque
+
+- Créer l’identité visuelle complète de H-ROW : logo, typographies, palette, langage des matières
+- Concevoir les marquages, gravures et plaques des éditions numérotées
+- Réaliser les rendus et supports de promotion
+Stagiaire 2 : Design produit
+
+- Proposer le design de l’enceinte Julia, avec une liberté de forme totale dans le respect des contraintes acoustiques
+- Mener une étude de faisabilité sur les bois (olivier, palmier, placage) avec des artisans tunisiens
+- Modéliser en 3D, produire le dossier de fabrication et suivre le prototype avec un menuisier
+Profils recherchés
+
+- Étudiants en fin de cursus de design graphique, communication visuelle, design produit ou design industriel
+- Pour le design produit : maîtrise de Shapr3D, Fusion 360 ou SolidWorks
+- Sensibilité au luxe, aux matériaux et à l’artisanat ; un intérêt pour l’audio est un plus
+- Rigueur, autonomie, respect des délais
+Ce que nous offrons
+
+- Un vrai produit, fabriqué et commercialisé en Europe
+- Une liberté créative réelle
+- Un suivi hebdomadaire par le fondateur
+
+Candidature : CV et portfolio à aymen@hera.events, en précisant le poste visé.",https://tn.linkedin.com/company/heraeventsdecoandco,2026-11-15T10:56:36.104152+00:00,"pfe design produit enceinte audio hifi|hera events, deco & co|tunis, tunis, tunisia",LinkedIn,"[""SolidWorks""]","[""unspecified""]",[],"[""Marketing and Communication""]",rules
+tanitjobs-2074349,Stage PFE : Digital Marketing - Management - Communication & growth,AMSYS,"Tunis, Tunis, Tunisie",14/11/2026,https://www.tanitjobs.com/job/2074349/stage-pfe-digital-marketing-management-communication-growth/,"Postes vacants:
+											10 postes ouverts
+
+											Type d'emploi désiré :
+											Temps plein, 				Temps partiel, 				Stage
+
+												Description de l'emploi
+
+						 
+
+Dans le cadre du développement de nos activités, de notre stratégie de croissance et de notre expansion internationale, AMSYS Consulting ouvre ses candidatures pour des stages de Projet de Fin d'Études (PFE) 2027 dans les différents domaines du Marketing Digital, de la Communication et du Growth Marketing.
+
+Nous recherchons des étudiants passionnés, créatifs, ambitieux et motivés, souhaitant participer à des projets concrets et développer leurs compétences dans un environnement professionnel, innovant et international.
+
+- DOMAINES & THÉMATIQUES DE PFE
+
+Les candidats pourront intervenir sur différents projets couvrant notamment :
+
+- Digital Marketing & Digital Strategy
+
+-  Social Media Marketing & Community Management
+
+- Content Marketing & Digital Storytelling
+
+- Growth Marketing & Growth Hacking
+
+- SEO, SEM & Search Engine Marketing
+
+- Digital Advertising & Performance Marketing
+
+- Marketing Automation & CRM
+
+- Artificial Intelligence for Digital Marketing
+
+- Data Analytics & Marketing Intelligence
+
+- Branding & Digital Brand Management
+
+- B2B & B2C Digital Marketing
+
+- Lead Generation & Conversion Optimization
+
+- Email Marketing & Customer Engagement
+
+- Video Marketing & Multimedia Communication
+
+- Influencer Marketing & Digital PR
+
+- International Digital Marketing & Market Expansion
+
+- Employer Branding & Talent Marketing
+
+- E-commerce & Digital Customer Experience
+
+- Marketing Research & Competitive Intelligence
+
+- Product Marketing & Go-to-Market Strategy
+
+Les sujets seront définis et adaptés selon le profil, les compétences, les préférences et les objectifs professionnels des candidats.
+
+ PROFILS RECHERCHÉS
+
+Étudiants en dernière année dans les spécialités suivantes :
+
+-
+Marketing Digital et Marketing Stratégique
+
+-
+Communication et Communication Digitale
+
+-
+Commerce et Développement Commercial
+
+-
+Management et Gestion des Entreprises
+
+-
+Business Administration
+
+-
+E-commerce et Business Digital
+
+-
+Data Analytics appliquée au Marketing
+
+-
+Multimédia et Création de Contenu Digital
+
+-
+Ou toute autre spécialité équivalente.
+
+⭐ POURQUOI NOUS REJOINDRE ?
+
+✅ Des projets concrets, diversifiés et à fort potentiel professionnel.
+
+✅ Un encadrement professionnel structuré, fondé sur l'expertise, la méthodologie et l'accompagnement personnalisé.
+
+✅ Des opportunités de formation, de développement des compétences et de montée en autonomie.
+
+✅ Une immersion dans des projets de transformation digitale, de marketing et de croissance d'entreprise.
+
+✅ Une exposition à des problématiques internationales et multidisciplinaires.
+
+✅ Une expérience favorisant la transition du monde académique vers le monde professionnel.
+
+* INFORMATIONS SUR LE STAGE
+
+* Entreprise : AMSYS Consulting
+
+* Session : PFE 2027
+
+* Type : Stage de fin d'études
+
+* Domaines : Digital Marketing, Communication, Growth & Innovation
+
+⏳ Durée : Selon la convention de stage
+
+* Candidature : Via notre annonce officielle et notre formulaire de candidature.
+
+* READY TO BUILD YOUR FUTURE IN DIGITAL MARKETING?
+
+Explore. Innovate. Create. Grow.
+
+Rejoignez une expérience professionnelle où vos idées, votre créativité et votre potentiel pourront se transformer en compétences concrètes et en réalisations mesurables.
+
+ 
+
+												Date d'expiration
+
+						14/12/2026
+
+						  Mots clés:
+												  AMSYSConsulting
+												  PFE2027
+												  StagePFE
+												  DigitalMarketing
+												  MarketingDigital
+												  GrowthMarketing
+												  SocialMediaMarketing
+												  ContentMarketing
+												  MarketingAutomation
+												  DigitalStrategy
+												  CommunicationDigitale
+												  Internship
+												  FinalYearProject
+												  YoungTalents
+												  amsys
+
+-->
+						 Mots clés:
+
+													  AMSYSConsulting
+												  PFE2027
+												  StagePFE
+												  DigitalMarketing
+												  MarketingDigital
+												  GrowthMarketing
+												  SocialMediaMarketing
+												  ContentMarketing
+												  MarketingAutomation
+												  DigitalStrategy
+												  CommunicationDigitale
+												  Internship
+												  FinalYearProject
+												  YoungTalents
+												  amsys
+
+																																	 Postuler maintenant",,2026-11-15T10:56:49.133088+00:00,"stage pfe : digital marketing - management - communication & growth|amsys|tunis, tunis, tunisie",TanitJobs,"[""Automation""]","[""unspecified""]","[""Rejoignez une expérience professionnelle où vos idées, votre créativité et votre potentiel pourront se transformer en compétences concrètes et en réalisations mesurables.""]","[""AI"", ""Marketing and Communication"", ""Consulting""]",rules
+tanitjobs-2074354,"Stage PFE : Business Development -Stratégie Commercial -Développement Commercial, Prospection B2B & e,  B2B Sales",AMSYS,"Tunis, Tunis, Tunisie",14/11/2026,https://www.tanitjobs.com/job/2074354/stage-pfe-business-development-strat%C3%A9gie-commercial-d%C3%A9veloppement-commercial-prospection-b2b-e-b2b-sales/,"Postes vacants:
+											10 postes ouverts
+
+											Type d'emploi désiré :
+											Temps plein, 				Temps partiel, 				Stage
+
+												Description de l'emploi
+
+						AMSYS CONSULTING | Students & Recent Graduates
+
+Dans le cadre de son développement et de son expansion internationale, AMSYS Consulting ouvre des opportunités de stages dans les domaines du développement commercial, de la stratégie de vente, de la prospection B2B et des partenariats stratégiques.
+
+Nous recherchons des profils dynamiques, ambitieux et motivés, souhaitant contribuer activement à la croissance commerciale d'une entreprise évoluant dans les secteurs de la technologie, de l'innovation et des services professionnels.
+
+ DOMAINES & THÉMATIQUES
+
+    Business Development & Commercial Strategy
+
+    B2B Sales & Client Acquisition
+
+    Sales Prospecting & Lead Generation
+
+    Field Sales & Client Visits
+
+   Market Research & Competitive Intelligence
+
+   International Business Development
+
+   Strategic Partnerships & Business Alliances
+
+   Sales Operations & CRM Management
+
+   Commercial Offers & Business Proposals
+
+   Account Management & Customer Relationships
+
+   Sales Performance & Business Analytics
+
+   Go-to-Market Strategy & Market Expansion
+
+MISSIONS PRINCIPALES
+
+-
+Participer à l'élaboration et au déploiement de la stratégie commerciale.
+
+-
+Identifier de nouvelles opportunités d'affaires et de nouveaux marchés.
+
+-
+Réaliser des actions de prospection commerciale B2B.
+
+-
+Préparer et participer aux visites commerciales et rendez-vous professionnels.
+
+-
+Contribuer à la présentation et à la valorisation des offres de services.
+
+-
+Développer et suivre un portefeuille de prospects et de partenaires.
+
+-
+Participer à la structuration des processus et outils commerciaux.
+
+-
+Contribuer au développement des activités à l'international.
+
+-
+Suivre les indicateurs de performance et proposer des actions d'amélioration.
+
+ PROFILS RECHERCHÉS
+
+Étudiants en fin d'études et jeunes diplômés en :
+
+-
+Commerce et Développement Commercial
+
+-
+Business Development
+
+-
+Management et Gestion des Entreprises
+
+-
+Commerce International
+
+-
+Marketing et Vente
+
+-
+Business Administration
+
+-
+Entrepreneuriat et Innovation
+
+-
+Ou spécialités équivalentes.
+
+ POURQUOI NOUS REJOINDRE ?
+
+- Participation à des projets commerciaux concrets.
+
+- Implication dans la construction et le développement d'une stratégie de croissance.
+
+- Expérience pratique de la prospection, des relations clients et du développement de partenariats.
+
+- Encadrement professionnel structuré et accompagnement personnalisé.
+
+- Développement des compétences commerciales, relationnelles et stratégiques.
+
+- Opportunités de collaboration dans un environnement technologique et international.
+
+ INFORMATIONS
+
+ Entreprise : AMSYS Consulting
+
+ Session : 2027
+
+ Domaines : Business Development, Sales & Commercial Strategy
+
+Build Relationships. Create Opportunities. Drive Business Growth.
+
+ 
+
+												Exigences de l'emploi
+
+						 Public : Étudiants en fin d'études & jeunes diplômés
+
+												Date d'expiration
+
+						14/12/2026
+
+						  Mots clés:
+												  AMSYS
+												  #AMSYSConsulting
+												  PFE2027
+												  Internship
+												  BusinessDevelopment
+												  SalesStrategy
+												  B2BSales
+												  CommercialStrategy
+												  InternationalBusiness
+												  SalesProspecting
+												  YoungGraduates
+												  FinalYearProject
+
+-->
+						 Mots clés:
+
+													  AMSYS
+												  #AMSYSConsulting
+												  PFE2027
+												  Internship
+												  BusinessDevelopment
+												  SalesStrategy
+												  B2BSales
+												  CommercialStrategy
+												  InternationalBusiness
+												  SalesProspecting
+												  YoungGraduates
+												  FinalYearProject
+
+																																	 Postuler maintenant",,2026-11-15T10:56:53.698517+00:00,"stage pfe : business development -stratégie commercial -développement commercial, prospection b2b & e, b2b sales|amsys|tunis, tunis, tunisie",TanitJobs,"[""Research""]","[""unspecified""]",[],"[""Marketing and Communication"", ""Consulting""]",rules
+tanitjobs-2074337,"Stage PFE : IA, Innovation, Développement - Ouvert aux Étudiants et Jeunes Diplômés",AMSYS,"Tunis, Tunis, Tunisie",14/11/2026,https://www.tanitjobs.com/job/2074337/stage-pfe-ia-innovation-d%C3%A9veloppement-ouvert-aux-%C3%A9tudiants-et-jeunes-dipl%C3%B4m%C3%A9s/,"Postes vacants:
+											15 postes ouverts
+
+											Type d'emploi désiré :
+											Temps plein, 				Temps partiel, 				Stage
+
+												Description de l'emploi
+
+						Amsys-Consulting lance un ensemble des sujets de stage PFE dans le monde de l'IT,  plusieurs opportunités dans différents domaines technologiques et innovants.
+
+ -   Intelligence artificielle & IA générative
+ -   Data Engineering & Analytics
+ -   Développement logiciel & Cloud
+ -   Cybersécurité
+ -   Robotique & Mécatronique
+ -   Électronique & Télécommunications
+ -   Systèmes embarqués & IoT
+ -   Vision par ordinateur & IA embarquée
+ -   Automatisation intelligente
+ -   Mécanique
+ -   Product Engineering & Innovation
+
+ 
+
+Nos stages PFE sont construits autour de projets réels, de l’innovation, d’un encadrement structuré et d’une approche orientée exécution et ingénierie appliquée.
+
+ 
+
+Envoyer vos CV pour être parmi les premiers 
+
+												Date d'expiration
+
+						14/12/2026
+
+						  Mots clés:
+												  AMSYS
+												  IT
+												  IA
+												  PFE
+												  PFE2027
+												  informatique
+												  software
+												  robotic
+
+-->
+						 Mots clés:
+
+													  AMSYS
+												  IT
+												  IA
+												  PFE
+												  PFE2027
+												  informatique
+												  software
+												  robotic
+
+																																	 Postuler maintenant",,2026-11-15T10:56:59.576837+00:00,"stage pfe : ia, innovation, développement - ouvert aux étudiants et jeunes diplômés|amsys|tunis, tunis, tunisie",TanitJobs,"[""Computer Vision"", ""Telecommunications"", ""IoT"", ""Cybersecurity"", ""Automation""]","[""unspecified""]",[],"[""AI"", ""Software Engineering"", ""Cybersecurity"", ""Embedded Systems"", ""Telecommunications"", ""Consulting""]",rules
+tanitjobs-2070002,Stage PFE 2027,AMSYS,"Tunis, Tunis, Tunisie",03/11/2026,https://www.tanitjobs.com/job/2070002/stage-pfe-2027/,"Postes vacants:
+											40 postes ouverts
+
+											Type d'emploi désiré :
+											Temps partiel, 				Saisonnier, 				SIVP, 				Stage
+
+											Mode de travail :
+											Hybride, Télétravail
+
+												Description de l'emploi
+
+						Vous recherchez un stage de fin d'études (PFE) en local ou à l'international pour 2027 ?
+
+AMSYS Consulting prépare le lancement du PFE Challenge 2027, avec un encadrement structuré selon la méthodologie IPIR Excellence.
+
+- Opportunités de stages :
+
+Stages en local
+  ou 
+ l'international   (à travers l'organisme AIT:  Alliance Innovation Technology ), selon les projets et les opportunités disponibles.
+
+* Domaines concernés:
+
+Domaine 1 : IT
+
+   Intelligence artificielle & IA générative
+   Data Engineering & Analytics
+   Développement logiciel & Cloud
+   Cybersécurité
+   Robotique & Mécatronique
+   Électronique & Télécommunications
+   Systèmes embarqués & IoT
+   Vision par ordinateur & IA embarquée
+   Automatisation intelligente
+   Mécanique
+
+Domaine 2 :
+  Digital marketing - Commerce - management - Commerce internationale
+
+ 
+
+* Des prix et récompenses à gagner !
+
+Les meilleurs projets pourront être récompensés à l'issue du challenge :
+
+Les modalités d'attribution des récompenses seront annoncées prochainement.
+
+ 
+
+** Ready to take the challenge?
+
+** Follow our pages and stay tuned for the next announcements!
+
+ 
+
+#PFEChallenge #PFE2027 #PFE #StagePFE #Stage #Internship #FinalYearProject #Innovation
+
+												Date d'expiration
+
+						03/12/2026
+
+						  Mots clés:
+												  AMSYS Consulting
+												   stage
+												   PFE
+												   PFE 2027
+												   internship
+												   IT
+												   informatique
+												   digital marketing
+												   marketing
+												   commerce
+												   management
+												   IA
+												   stage de fin d'études
+												   intelligence artificielle
+												   data engineering
+												   développement logiciel
+												   cybersécurité
+												   systèmes embarqués
+												   emploi Tunis
+
+-->
+						 Mots clés:
+
+													  AMSYS Consulting
+												   stage
+												   PFE
+												   PFE 2027
+												   internship
+												   IT
+												   informatique
+												   digital marketing
+												   marketing
+												   commerce
+												   management
+												   IA
+												   stage de fin d'études
+												   intelligence artificielle
+												   data engineering
+												   développement logiciel
+												   cybersécurité
+												   systèmes embarqués
+												   emploi Tunis
+
+																																	 Postuler maintenant",,2026-11-15T10:57:16.581112+00:00,"stage pfe 2027|amsys|tunis, tunis, tunisie",TanitJobs,"[""Computer Vision"", ""Telecommunications"", ""IoT"", ""Cybersecurity"", ""Automation""]","[""unspecified""]",[],"[""AI"", ""Software Engineering"", ""Cybersecurity"", ""Embedded Systems"", ""Telecommunications"", ""Marketing and Communication"", ""Consulting""]",rules
