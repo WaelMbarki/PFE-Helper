@@ -1,0 +1,84 @@
+{
+    "education": {
+        "diplomas": [
+            {
+                "title": "Degree in Computer Engineering : IoT and Embedded Systems",
+                "level": "Bachelor",
+                "status": "in_progress"
+            }
+        ],
+        "field_of_study": "Computer Engineering",
+        "year_of_study": null,
+        "current_level": "Bachelor"
+    },
+    "languages": [
+        {
+            "language": "Arabic",
+            "level": "Native",
+            "cefr": "C2"
+        },
+        {
+            "language": "English",
+            "level": "IELTS 6.5",
+            "cefr": "B2"
+        },
+        {
+            "language": "French",
+            "level": "Conversational",
+            "cefr": "B1"
+        },
+        {
+            "language": "German",
+            "level": "Beginner",
+            "cefr": "A1"
+        }
+    ],
+    "skills": [
+        "Python",
+        "JavaScript",
+        "C",
+        "Java",
+        "HTML",
+        "CSS",
+        "PHP",
+        "SQL",
+        "PL-SQL",
+        "Android SDK",
+        "Assembly",
+        "Figma",
+        "Linux",
+        "Pandas",
+        "Polars",
+        "Numpy",
+        "Matplotlib",
+        "Seaborn",
+        "Scikit-Learn",
+        "PyTorch",
+        "XGBoost",
+        "NLTK",
+        "STM32F4 microcontroller",
+        "VHDL",
+        "Arduino IDE",
+        "Raspberry Pi 3",
+        "Cisco Packet Tracer",
+        "TfidfVectorizer",
+        "Logistic Regression",
+        "Text Preprocessing",
+        "Spam Classification",
+        "Feature Reduction",
+        "Cosine Similarity",
+        "Movie Metadata",
+        "Recommendation System",
+        "FashionMNIST",
+        "Convolutional Neural Network",
+        "Data Visualization",
+        "Model Training",
+        "Machine Learning",
+        "Data Analysis",
+        "RAG Architecture",
+        "Real Estate",
+        "Data Warehouse",
+        "Star Schema",
+        "Business Analytics"
+    ]
+}

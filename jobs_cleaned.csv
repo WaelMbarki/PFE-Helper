@@ -1,11 +1,67 @@
-﻿id,title,company,location,posted_at,url,description,company_url,scraped_at,dedupe_key,technical_skills,education_type,required_experience,job_domain,domain_method
-4489428407,Stages PFE 2026,Loansquare,"Tunis, Gouvernorat Tunis, Tunisie",2026-11-10,https://tn.linkedin.com/jobs/view/stages-pfe-2026-at-loansquare-4489428407,"About Us
+﻿id,url,title,company,location,posted_at,search_keywords,description,company_url,scraped_at,technical_skills,education_type,required_experience,job_domain
+4248787008,https://tn.linkedin.com/jobs/view/stage-d-%C3%A9t%C3%A9-ressources-humaines-at-devoteam-4248787008,Stage d'été Ressources Humaines,Devoteam,"Tunis, Tunis, Tunisia",2026-09-30,stage,"Chez Devoteam Digital Impulse, nous accompagnons nos clients dans leur transformation digitale de la stratégie à l’exécution.
+
+Nous sommes des Thinkers et des Doers audacieux, prêts à impulser le changement, à travers nos 5 domaines d’expertise, créateurs de valeur: Plateformes & Enterprise Performance, Digital Business Transformation, NextGen IT, Data & CFO.
+
+AI-driven tech consulting.
+
+http://www.devoteam.com
+
+Job Description
+
+Mise en place d’un référentiel des emplois et des compétences au sein d’une organisation, dans le cadre d’un projet de revue de l’organisation.
+
+Objectifs :
+
+
+Définir les attendues par poste.
+Disposer d’un outillage de gestion des compétences (Référentiel des emplois et des compétences, Fiches de postes, etc.).
+
+
+
+Tâches :
+
+
+Cartographie des emplois et des postes existant au sein de l’organisation.
+Identification des évolutions métiers ou des nouvelles fonctions à créer dans le cadre de la refonte organisationnelle.
+Identification des rôles et responsabilités des postes cibles
+Formalisation d’un référentiel des emplois et des compétences attendues par poste
+Conception des fiches de postes.
+
+
+
+Qualifications
+
+Master en Sciences de Gestion : Ressources Humaines, Organisation, etc. ; ou équivalent.
+
+Additional Information
+
+Comment se déroule le processus de recrutement chez Devoteam ?
+
+Il comporte 2 à 3 entretiens :
+
+
+Talent Acquisition Interview
+Tech & Business Interview
+Leadership Interview",https://fr.linkedin.com/company/devoteam,2026-10-16T14:05:30.474266,[],"[""master""]","[""Mise en place d’un référentiel des emplois et des compétences au sein d’une organisation, dans le cadre d’un projet de revue de l’organisation.""]","[""Human Resources""]"
+4479285421,https://tn.linkedin.com/jobs/view/intern-pfe-master-thesis-transaction-advisory-infrastructure-at-jade-advisory-4479285421,"Intern, PFE, Master Thesis, Transaction Advisory / Infrastructure",Jade Advisory,"Tunis, Tunisia",2026-10-14,stage,"Company Description Jade Advisory, founded in 2019 in Tunis, has expanded with offices in Riyadh and Paris to serve a growing international client base. The firm specializes in strategy, consultancy, and public-private partnership (PPP) services, supporting confidence in capital markets and broader economies. Its diverse team includes experienced leaders who help deliver high-quality insights and solutions to stakeholders. Jade Advisory is committed to building a better working world for people, clients, and communities through impactful advisory work.
+
+Role Description This full-time, on-site PFE / Master Thesis Intern role is based in Tunis, Tunisia. The intern will support transaction advisory and infrastructure projects by conducting market and sector research, analyzing financial and technical data, and contributing to project reports and presentations. Daily tasks may include assisting in the preparation of models and analytical tools, compiling documentation for PPP and infrastructure mandates, and helping coordinate with internal teams. The role also involves drafting clear written materials, participating in meetings, and supporting the development of thesis-related work aligned with Jade Advisory’s project portfolio. Advanced use of IA tools is expected.
+
+Qualifications
+
+Enrollment in a Master’s program in engineering, economics, finance, or a related discipline from a top tier university in Tunisia.
+Candidates should possess strong Analytical Skills and Research abilities.
+Candidates should possess effective Communication skills for preparing reports, presentations, and participating in client and team discussions.
+Ability to work collaboratively in an international, multidisciplinary team environment.
+Strong organizational skills, attention to detail, and ability to manage multiple tasks and deadlines.",https://sa.linkedin.com/company/jade-advisory,2026-10-16T14:05:33.583646,[],"[""engineering"", ""master""]","[""Its diverse team includes experienced leaders who help deliver high-quality insights and solutions to stakeholders."", ""The intern will support transaction advisory and infrastructure projects by conducting market and sector research, analyzing financial and technical data, and contributing to project reports and presentations."", ""The role also involves drafting clear written materials, participating in meetings, and supporting the development of thesis-related work aligned with Jade Advisory’s project portfolio.""]","[""Business and Finance""]"
+4333959273,https://tn.linkedin.com/jobs/view/stages-pfe-2026-at-linedata-4333959273,Stages PFE 2026,Linedata,"Tunis, Tunis, Tunisia",2026-10-03,stage,"About Us
 
 WHY Linedata?
 
 Linedata is an award-winning software solutions company. We believe finance matters to our society as much as energy to life and fueling financial transformation is vital for development and leadership.
 
-We Humanize Technology
+We humanize technology :
 
 We are passionate experts who provide investment management and credit communities with innovative, user-friendly products which help their businesses grow in over 50 countries
 
@@ -35,12 +91,15 @@ Job Description
 
 Chaque année, nous accueillons des étudiants en fin de cursus pour leur offrir une expérience concrète du monde professionnel et leur permettre de contribuer activement à nos projets stratégiques.
 
-La Campagne PFE 2026 S’adresse Aux Étudiants Talentueux, Passionnés Par L’innovation, La Technologie Et Les Défis De La Fintech, Souhaitant
+La campagne PFE 2026 s’adresse aux étudiants talentueux, passionnés par l’innovation, la technologie et les défis de la fintech, souhaitant :
 
-- Mettre en pratique leurs compétences techniques et analytiques,
-- Découvrir les métiers de la finance digitale,
-- Travailler dans un environnement international et collaboratif,
-- Bénéficier d’un encadrement de qualité et d’une réelle montée en compétences.
+
+Mettre en pratique leurs compétences techniques et analytiques,
+Découvrir les métiers de la finance digitale,
+Travailler dans un environnement international et collaboratif,
+Bénéficier d’un encadrement de qualité et d’une réelle montée en compétences.
+
+
 
 Domaines et sujets proposés
 
@@ -48,421 +107,984 @@ Nous proposons plusieurs thématiques de stages, couvrant un large éventail de 
 
 Développement et ingénierie logicielle
 
-- Développement web, mobile et full-stack
-- Modernisation d’applications existantes
-- Microservices, APIs et intégration continue
+
+Développement web, mobile et full-stack
+Modernisation d’applications existantes
+Microservices, APIs et intégration continue
+
+
 
 Data, Intelligence artificielle et Cloud
 
-- Analyse et visualisation de données
-- Machine Learning & NLP
-- Cloud computing et automatisation DevOps
+
+Analyse et visualisation de données
+Machine Learning & NLP
+Cloud computing et automatisation DevOps
+
+
 
 Qualité, Testing et Performance
 
-- Mise en place d’environnements de test automatisé
-- Amélioration continue de la qualité logicielle
-- Mesure et optimisation de la performance applicative
+
+Mise en place d’environnements de test automatisé
+Amélioration continue de la qualité logicielle
+Mesure et optimisation de la performance applicative
+
+
 
 Profil recherché
 
-Étudiant(e) En Dernière Année D’une École D’ingénieurs Ou D’un Master Universitaire Dans L’un Des Domaines Suivants
+Étudiant(e) en dernière année d’une école d’ingénieurs ou d’un master universitaire dans l’un des domaines suivants :
 
-- Informatique / Génie logiciel / Systèmes d’information
-- Data science / Cloud / IA / Mathématiques appliquées
-- Finance / Ingénierie financière
 
-Compétences Attendues
+Informatique / Génie logiciel / Systèmes d’information
+Data science / Cloud / IA / Mathématiques appliquées
+Finance / Ingénierie financière
 
-- Solides bases techniques et/ou analytiques selon le sujet choisi
-- Esprit d’équipe, curiosité et rigueur
-- Bonne capacité d’adaptation et d’autonomie
-- Niveau correct en anglais (écrit et oral)
+
+
+Compétences attendues :
+
+
+Solides bases techniques et/ou analytiques selon le sujet choisi
+Esprit d’équipe, curiosité et rigueur
+Bonne capacité d’adaptation et d’autonomie
+Niveau correct en anglais (écrit et oral)
+
+
 
 Job Requirement
 
-Pour postuler, nous vous invitons à envoyer votre candidature à l'adresse mail suivante : Recrutement.Tunisie@se.linedata.com",https://fr.linkedin.com/company/loansquare,2026-11-14T09:23:01.937066+00:00,"stages pfe 2026|loansquare|tunis, gouvernorat tunis, tunisie","[""Machine Learning"", ""NLP"", ""Data Science"", ""Microservices"", ""Automation""]","[""engineering"", ""master""]",[],"[""AI"", ""Data Science"", ""Web Development"", ""Software Engineering"", ""Cloud and DevOps"", ""Human Resources"", ""Business and Finance"", ""Quality Assurance""]",rules
-4485471441,Stage PFE – IA & Automatisation : Optimisation de la gestion des tickets IT (H/F),CAFPI,"Tunis, Gouvernorat Tunis, Tunisie",2026-11-04,https://tn.linkedin.com/jobs/view/stage-pfe-%E2%80%93-ia-automatisation-optimisation-de-la-gestion-des-tickets-it-h-f-at-cafpi-4485471441,"À propos de CAFPI
-Fondé en 1971, CAFPI est l'un des leaders du courtage en prêts immobiliers en France. Basée à Tunis, CAFPI SERVICES Tunisie réunit plus de 120 collaborateurs (IT, Back Office, Front Office, Qualité, Finance & Risques, Audit, RH) qui travaillent au quotidien avec les agences et la Direction Générale de CAFPI SAS.
+Pour postuler, nous vous invitons à envoyer votre candidature à l'adresse mail suivante : Recrutement.Tunisie@se.linedata.com",https://fr.linkedin.com/company/linedata,2026-10-16T14:05:38.889644,"[""Machine Learning"", ""NLP"", ""Data Science"", ""Microservices""]","[""master""]",[],"[""AI"", ""Data Science"", ""Web Development"", ""Software Engineering"", ""Cloud and DevOps"", ""Business and Finance"", ""Human Resources""]"
+4478716237,https://tn.linkedin.com/jobs/view/stage-de-fin-d-%C3%A9tudes-t%C3%A9l%C3%A9com-at-amaris-consulting-part-of-mantu-4478716237,Stage de Fin d'études - Télécom,Amaris Consulting  | Part of Mantu,"Tunis, Tunisia",2026-10-12,stage,"Job Description
+
+À partir de Janvier 2027, vous rejoindrez les équipes d’Amaris Consulting dans le cadre d’un stage de fin d’études orienté télécommunications, fibre optique, radio, FTTH, FTTO, FTTA, FTTx, data, SIG, BI et automatisation des processus. Selon le sujet retenu, vous contribuerez à l’optimisation de processus opérationnels, au contrôle qualité des données, à la supervision des demandes fibre ou radio, à l’analyse des anomalies, à la digitalisation des livrables techniques ou encore à l’amélioration des outils de pilotage projet.
+
+Responsabilités
+
+
+
+Analyser les processus existants liés aux activités fibre, radio, FTTH, FTTO, FTTA, FTTx, sites radio, service après-vente, commandes, production, contrôle qualité ou SIG.
+Identifier les points de blocage, les écarts de traitement et les opportunités d’optimisation dans les parcours opérationnels.
+Concevoir des solutions d’automatisation pour fiabiliser le traitement des données, des commandes, des tickets, des dossiers ou des livrables techniques.
+Participer à la mise en place d’indicateurs de performance pour suivre la qualité, la productivité, les délais, les incidents et l’avancement des activités.
+Développer ou améliorer des outils de contrôle qualité permettant de détecter les anomalies, incohérences ou écarts entre les données, les études et les réalisations terrain.
+Contribuer à la structuration de bases de connaissances, guides de traitement ou supports de formation pour harmoniser les pratiques.
+Exploiter des données télécoms, radio, géographiques ou opérationnelles afin de produire des analyses, tableaux de bord ou recommandations.
+Documenter les travaux réalisés, présenter les résultats obtenus et proposer des axes d’amélioration continue.
+
+
+
+À propos de vous
+
+
+
+Première expérience académique ou projet significatif en télécommunications, radio, fibre optique, data, SIG, automatisation, systèmes d’information ou amélioration continue.
+Maîtrise de Python, SQL, Excel avancé, Power BI, AutoCAD ou QGIS.
+Connaissance pour les réseaux fibre optique, FTTH, FTTO, FTTA, FTTx, radio 2G/3G/4G/5G, SIG, contrôle qualité de données ou pilotage de processus.
+Connaissance des méthodes d’analyse de données, de cartographie, d’automatisation, de BI ou de modélisation de processus.
+Formation en dernière année d’école d’ingénieur ou de master universitaire en télécommunications, réseaux, informatique, data, géomatique, génie industriel ou systèmes d’information.
+Français et anglais courants.
+Capacité d’analyse, rigueur et sens de la qualité dans le traitement des données et des livrables.
+Esprit de synthèse et capacité à formaliser des recommandations opérationnelles.
+Intérêt pour les environnements projet, les infrastructures télécoms, les réseaux radio et l’amélioration continue.
+
+
+
+Liste des sujets
+
+
+
+Sujet 1 : Supervision des demandes de raccordement et de service après-vente fibre
+Sujet 2 : Base de connaissances et guides de traitement des demandes fibre
+Sujet 3 : Contrôle qualité et amélioration continue du traitement des adresses
+Sujet 4 : Optimisation du suivi des plans d’accès réseau
+Sujet 5 : Consolidation des décomptes de production et pilotage de l’activité
+Sujet 6 : Contrôle qualité automatisé des plans d’accès réseau
+Sujet 7 : Conduite du changement et impact sur les délais de traitement
+Sujet 8 : Optimisation et fiabilisation du contrôle qualité des tickets
+Sujet 9 : Détection des anomalies dans les tickets de service aprés vente
+Sujet 10 : Optimisation du traitement des commandes d’intégration
+Sujet 11 : Détection des incohérences dans le parcours de traitement de commandes
+Sujet 12 : Optimiser le processus du pilotage des flux
+Sujet 13 : Optimiser le processus du pilotage des flux
+Sujet 14 : Optimiser le prcessus de traitement
+Sujet 15 : optimiser le processus de la gestion d'une boite mail générique
+Sujet 16 : Automatisation du traitement de la conformité commande, remplacement de la macro Excel
+Sujet 17 : Digitalisation et automatisation du traitement des données et de génération des dossiers de contrôle terrain
+Sujet 18 : Optimiser la gestion des stocks et le suivi de la performance du projet.
+Sujet 19 : Optimisation du processus de traitement
+Sujet 20 : Optimiser le processus du controle conformité des dossiers
+Sujet 21 : Base de connaissances et guides de traitement des demandes fibre
+Sujet 22 : Simulation de scénarios et anticipation des risques projet
+Sujet 23 : Optimisation du parcours de traitement des commandes Fibre
+Sujet 24 : Optimisation du parcours d’intégration et de formation des nouveaux collaborateurs grâce à une plateforme e-learning
+Sujet 25 : Suivi et analyse des indicateurs de performance projet
+Sujet 26 : Détection des anomalies dans les procès-verbaux de recette
+Sujet 27 : Contrôle et audit des mesures du projet
+Sujet 28 : Optimisation du processus d’affectation des commandes et identification des points de blocage
+Sujet 29 : Standardisation et optimisation des livrables du projet
+Sujet 30 : Optimisation/Fiabilisation des suivis et de la diffusion des données
+Sujet 31 : Supervision des demandes de service après-vente fibre
+Sujet 32 : Contrôle qualité et amélioration continue du traitement
+Sujet 33 : Amélioration de la qualité et de la cohérence des données FTTH entre les applications du système d’information.
+Sujet 34 : Optimisation et fiabilisation du processus d’import GraceTHD dans les activités FTTH .
+Sujet 35 : Controle qualité automatisé des comptes rendus opérationnels des travaux.
+Sujet 36 : Détection intelligente des écarts entre études et réalisation des travaux sur terrain
+Sujet 37 : Optimisation du contrôle qualité et de validation des Dossiers d’Ouvrage Exécuté FTTH, de la phase d’étude à la réalisation des travaux,.
+Sujet 38 : Contrôle de la qualité des Dossiers d’Ouvrage Exécuté en immobilier neuf .
+Sujet 39 : Fiabilisation et détection des anomalies dans le controle des Dossiers d'Ouvrage Exécuté Immobilier NEUF
+Sujet 40 : Optimisation du processus de traitement des Dossiers d’Ouvrage Exécuté Clé en Main, de la collecte des données à la contre-expertise et à la validation des dossiers.
+Sujet 41 : Contrôle qualité automatisé des dossiers de Retour Terrain Exécuté (RTE) à la préparation et à la vérification des dossiers.
+Sujet 42 : Amélioration du processus de création et de saisie des objets FTTH dans le système d’information et de contrôle de la qualité des données.
+Sujet 43 : Amélioration du contrôle qualité et de saisie des dossiers Retour Terrain Exécuté (RTE)
+Sujet 44 : Optimisation de la performance des études de conception des réseaux FTTH.
+Sujet 45 : Étude du déploiement d’une infrastructure FTTH adaptée aux spécificités géographiques et socio-économiques de la Bretagne
+Sujet 46 : Optimisation de la supervision et de la fiabilité des réseaux FTTx, de suivi et d’analyse des anomalies réseau
+Sujet 47 : Cartographie sémantique PCRS par apprentissage profond pour le contrôle des infrastructures de télécommunications
+Sujet 48 : Diagnostic et résolution des anomalies des réseaux FTTH
+Sujet 49 : Suivi et analyse des indicateurs de qualité et de productivité des activités de production PCRS
+Sujet 50 : Priorisation des contrôles terrain des réseaux télécoms par analyse spatiale et topologique
+Sujet 51 : Optimisation et fiabilisation du processus de production des dossiers d’évolution du génie civil des réseaux de fibre optique.
+Sujet 52 : Contrôle de la qualité géométrique et topologique des données de recalage des réseaux télécoms
+Sujet 53 : Amélioration de la localisation des infrastructures FTTH à partir des images Street View et des données PCRS
+Sujet 54 : Suivi cartographique du déploiement des infrastructures de fibre optique dans le cadre du PCRS
+Sujet 55 : Amélioration du contrôle de cohérence des données des réseaux FTTH
+Sujet 56 : Optimisation des activités de production et de recalage des données géomatiques des réseaux télécoms
+Sujet 57 : Conception de pipelines de données et d'un Lakehouse sur Microsoft Fabric pour l'exploitation de données géospatiales françaises
+Sujet 58 : Mise en place d'une gouvernance des données avec Microsoft Purview et automatisation du contrôle qualité avec Great Expectations sur Microsoft Fabric
+Sujet 59 : QoD Auto — Uniformisation, correction et conversion des données avec suivi Power BI
+Sujet 60 : Recette Auto V2 — Application de comparaison et de validation automatisée des données
+Sujet 61 : Optimisation du processus de traitement des demandes d’accès aux sites radio
+Sujet 62 : Analyse et prévention des incidents liés aux échecs d’accès aux sites radio
+Sujet 63 : Optimisation du traitement des doléances et des non-conformités du guichet Patrimoine
+Sujet 64 : Sujets CPL : lancement de production, planification et amélioration continue
+Sujet 65 : Sujets GSP : ordonnancement, bases Bytel, GCR, livrables et amélioration continue
+Sujet 66 : Sujets Hub Towerco : suivi, traitement et amélioration continue
+Sujet 67 : Optimisation des mesures post Drive Test et automatisation du nettoyage et de l’analyse détaillée
+Sujet 68 : Ingénierie de conception AutoCAD
+Sujet 69 : Ingénierie de conception radio 2G/3G/4G/5G et solution automatisée pour la détection des mises à jour des modes opératoires
+Sujet 70 : Suivi de la qualité de service et optimisation du réseau d’un opérateur français
+Sujet 71 : Ingénierie et planification radio 2G/3G/4G
+Sujet 72 : Ingénierie de conception radio 2G/3G/4G/5G et amélioration des process de suivi de production
+Sujet 73 : Ingénierie de contrôle des livrables administratifs
+Sujet 74 : Découvrir l’univers des télécoms et des opérateurs, maîtriser les outils SIG et apprendre à produire et contrôler les livrables techniques (APS / APD / DOE) dans le respect des règles d’ingénierie du client pour le déploiement des réseaux FTTx.
+Sujet 75 : Digitalisation de l’ingénierie FTTO : développement d’une solution intelligente d’assistance et de validation des livrables.
+Sujet 76 : Découvrir l’univers des télécoms et des opérateurs, maîtriser les outils SIG et apprendre à produire et contrôler les livrables techniques (APS / APD / DOE) dans le respect des règles d’ingénierie du client pour le déploiement des réseaux FTTx.Digitalisation de l’ingénierie FTTA : développement d’une solution intelligente d’assistance et de validation des livrables.
+Sujet 77 : Découvrir l’univers des télécoms et des opérateurs, maîtriser les outils SIG et apprendre à produire et contrôler les livrables techniques (APS / APD / DOE) dans le respect des règles d’ingénierie du client pour le déploiement des réseaux FTTx.Digitalisation de l’ingénierie FTTH : développement d’une solution intelligente d’assistance et de validation des livrables.
+Sujet 78 : Découvrir l’univers des télécoms et des opérateurs, maîtriser les outils SIG et apprendre à produire et contrôler les livrables techniques (APS / APD / DOE) dans le respect des règles d’ingénierie du client pour le déploiement des réseaux FTTx.FTTx Smart GEDI : conception d’une solution intelligente de contrôle de dépôt des livrables.
+Sujet 79 : Découvrir l’univers des télécoms et des opérateurs, maîtriser les outils SIG et apprendre à produire et contrôler les livrables techniques (APS / APD / DOE) dans le respect des règles d’ingénierie du client pour le déploiement des réseaux FTTx.ProjectPilot : développement d’une solution intelligente d’automatisation et d’aide au pilotage des projets
+Sujet 80 : Découvrir l’univers des télécoms et des opérateurs, maîtriser les outils SIG et apprendre à produire et contrôler les livrables techniques (APS / APD / DOE) dans le respect des règles d’ingénierie du client pour le déploiement des réseaux FTTx.UEFA 360° : digitalisation du pilotage opérationnel et amélioration de la performance des activités
+Sujet 81 : Découvrir l’univers des télécoms et des opérateurs, maîtriser les outils SIG et apprendre à produire et contrôler les livrables techniques (APS / APD / DOE) dans le respect des règles d’ingénierie du client pour le déploiement des réseaux FTTx.UEFA TalentPilot : développement d’une plateforme intelligente d’optimisation des ressources et des compétences
+Sujet 82 : Découvrir l’univers des télécoms et des opérateurs, maîtriser les outils SIG et apprendre à produire et contrôler les livrables techniques (APS / APD / DOE) dans le respect des règles d’ingénierie du client pour le déploiement des réseaux FTTx.FTTX Smart Analytics : conception d’une solution BI pour le pilotage intelligent de la performance FTTX
+Sujet 83 : Découvrir l’univers des télécoms et des opérateurs, maîtriser les outils SIG et apprendre à produire et contrôler les livrables techniques (APS / APD / DOE) dans le respect des règles d’ingénierie du client pour le déploiement des réseaux FTTx.FTTO Smart Analytics : conception d’une solution BI pour le pilotage intelligent de la performance FTTO
+Sujet 84 : Découvrir l’univers des télécoms et des opérateurs, maîtriser les outils SIG et apprendre à produire et contrôler les livrables techniques (APS / APD / DOE) dans le respect des règles d’ingénierie du client pour le déploiement des réseaux FTTx.GeoFiber Intelligence : développement d’un outil de contrôle spatial et de validation des modèles d’infrastructures fibre optique
+Sujet 85 : Découvrir l’univers des télécoms et des opérateurs, maîtriser les outils SIG et apprendre à produire et contrôler les livrables techniques (APS / APD / DOE) dans le respect des règles d’ingénierie du client pour le déploiement des réseaux FTTx.APD Generator : conception d’une solution automatisée pour la production des APD FTTX et la traçabilité des données projet
+Sujet 86 : Découvrir l’univers des télécoms et des opérateurs, maîtriser les outils SIG et apprendre à produire et contrôler les livrables techniques (APS / APD / DOE) dans le respect des règles d’ingénierie du client pour le déploiement des réseaux FTTx.QOD : conception d’une solution automatisée de correction des erreurs de modélisation des infrastructures fibre optique
+Sujet 87 : Découvrir l’univers des télécoms et des opérateurs, maîtriser les outils SIG et apprendre à produire et contrôler les livrables techniques (APS / APD / DOE) dans le respect des règles d’ingénierie du client pour le déploiement des réseaux FTTx.GeoCheck : conception d’une solution automatisée de validation de la géolocalisation et de détection des colocations
+Sujet 88 : Découvrir l’univers des télécoms et des opérateurs, maîtriser les outils SIG et apprendre à produire et contrôler les livrables techniques (APS / APD / DOE) dans le respect des règles d’ingénierie du client pour le déploiement des réseaux FTTx.FiberQuality 360° : automatisation du contrôle de conformité des livrables, de l’APD à la livraison finale
+Sujet 89 : Découvrir l’univers des télécoms et des opérateurs, maîtriser les outils SIG et apprendre à produire et contrôler les livrables techniques (APS / APD / DOE) dans le respect des règles d’ingénierie du client pour le déploiement des réseaux FTTx.FTTx Smart Fiber Quality : conception d’une plateforme de suivi et de gestion des non-conformités des livrables FTTx
+Sujet 90 : Conception d’une solution intelligente d’automatisation et de suivi de la performance des projets Télécoms:Réduire le temps consacré à la saisie manuelle, à la consolidation des fichiers Excel et à la préparation des reportings.Disposer d’une visibilité centralisée sur le backlog et la répartition des projets par statut (en cours, clôturés, en attente/standby).Accélérer la préparation des tableaux de bord et des supports de réunions de pilotage.Faciliter l’identification des retards, des blocages et des anomalies.
+Sujet 91 : Conception et développement d’un chatbot intelligent d’assistance au déploiement des Data Centers:Rechercher rapidement des informations dans les fichiers PDF, Word et les procédures techniques.Guider les nouveaux arrivants dans leurs tâches.Réduire le temps de recherche et la dépendance aux experts pour les questions courantes
+Sujet 92 : Plateforme de suivi de la production et de pilotageMettre en place une plateforme permettant de renseigner les heures travaillées, les tâches réalisées, les livrables, les réunions, les incidents rencontrés et les absences. L’objectif serait de rapprocher ces données de TimeSheet et de Teams, puis de suivre des indicateurs tels que la productivité, le taux d’occupation et les compétences mobilisées.
+Sujet 93 : Automatisation de la production GUB et des exports SIG:Automatiser l’intégration des éléments de JAR (export de JAR : vérification des données) et la génération de l'export GUB, génération de l'exportat proactivité, puis la génération d’un reporting régulier, sous forme de newsletter ou de présentation PowerPoint.
+Sujet 94 : Automatisation de la production OWF:Automatisation de bout en bout des traitements OWF sur les outils SIG : création d’une base de données Access, intégration des adresses à analyser, analyse d’impact des adresses travaux dans ND ou QGIS, puis génération de la macro d’envoi des notifications.
+Sujet 95 : Développement d’une extension intégrée à l’ND permettant d’automatiser et de fiabiliser le contrôle qualité.
+Sujet 96 : Automatisation de la génération des livrables conformément aux exigences et aux demandes du client, en un seul clic.
+Sujet 97 : Réduction du temps consacré aux contrôles et à la préparation des livrables.
+Sujet 98 : Automatisation et simplification du remplissage des tableaux de suivi afin de réduire le temps consacré à ces tâches.
+Sujet 99 : Centralisation des données nécessaires au pilotage de l’activité.
+Sujet 100 : Amélioration de la visibilité sur l’avancement de la production, les charges et les éventuels points de blocage.
+Sujet 101 : Création d’une interface de pilotage permettant de suivre les indicateurs de production en temps réel.
 
-Le projet
-Le Support IT traite chaque jour les demandes et incidents des collaborateurs, ainsi que l'onboarding des nouveaux arrivants. Une grande partie de ces tâches est répétitive et manuelle. Votre mission sera d'optimiser la gestion des tickets grâce à l'IA et à l'automatisation, pour réduire les délais de traitement et mieux piloter l'activité.
 
-Vos missions
 
-- Identifier et automatiser les tâches récurrentes à faible valeur ajoutée
-- Automatiser l'onboarding : création et traitement des tickets selon les dates d'entrée
-- Automatiser les relances, avec des notifications aux responsables et aux RH selon les règles établies
-- Qualifier automatiquement les tickets avec Copilot (catégorie, priorité) et définir des règles d'affectation par entité
-- Créer des tableaux de bord pour suivre les volumes, les demandes récurrentes et les tendances
-- Mettre en place l'assistance par l'IA : suggestions de réponses, aide à la résolution des incidents
-
-Profil recherché
-
-- Étudiant(e) en dernière année d'école d'ingénieurs ou de master en informatique / systèmes d'information
-- Intérêt pour l'IA, l'automatisation et les outils de support IT (ITSM)
-- Notions de scripting / développement et d'intégration d'API
-- Capacité d'analyse des processus et sens du service
-- Rigueur, autonomie et bon niveau de rédaction en français
-
-Conditions
-
-- Stage de fin d'études (PFE) de 6 mois
-- Lieu : CAFPI SERVICES Tunisie, Les Berges du Lac, Tunis (sur site)
-- Gratification : 300 DT par mois + tickets restaurant
-- Encadrement par l'équipe IT / Support, avec des points de suivi réguliers",https://fr.linkedin.com/company/cafpi-groupe,2026-11-14T09:23:06.896162+00:00,"stage pfe – ia & automatisation : optimisation de la gestion des tickets it (h/f)|cafpi|tunis, gouvernorat tunis, tunisie","[""Automation""]","[""engineering"", ""master""]",[],"[""Business and Finance""]",rules
-4489251413,Stage PFE – Ingénieur DevOps Mobile : Plateforme interne de build & déploiement (H/F),CAFPI,"Tunis, Gouvernorat Tunis, Tunisie",2026-11-12,https://tn.linkedin.com/jobs/view/stage-pfe-%E2%80%93-ing%C3%A9nieur-devops-mobile-plateforme-interne-de-build-d%C3%A9ploiement-h-f-at-cafpi-4489251413,"À propos de CAFPI
-Fondé en 1971, CAFPI est l'un des leaders du courtage en prêts immobiliers en France. Basée à Tunis, CAFPI SERVICES Tunisie réunit plus de 120 collaborateurs (IT, Back Office, Front Office, Qualité, Finance & Risques, Audit, RH) qui travaillent au quotidien avec les agences et la Direction Générale de CAFPI SAS.
-
-Le projet
-CAFPI utilise aujourd'hui Ionic Appflow pour builder ses applications mobiles iOS/Android (Capacitor/Ionic) et les publier sur l'App Store et le Play Store. Ionic Appflow étant discontinué (support maintenu jusqu'à fin décembre 2027), CAFPI souhaite étudier et mettre en place une solution internalisée, appuyée sur son écosystème Azure / Azure DevOps, afin de garantir la continuité des publications, limiter la dépendance à un prestataire externe (et les contraintes RGPD / hébergement associées) et maîtriser les coûts.
-Comment concevoir et développer une plateforme interne permettant de builder, signer et publier des applications mobiles (Capacitor/Ionic) sur les stores iOS et Android, en remplacement d'Ionic Appflow ?
-
-Vos missions
-
-- Analyser l'existant : workflows actuels de build, de signature et de publication, gestion des certificats et profils de provisioning
-- Réaliser un benchmark des alternatives (Capawesome, Capgo, GitHub Actions + Fastlane, Azure Pipelines natif…) et formuler une recommandation
-- Concevoir l'architecture cible et mettre en place les pipelines CI/CD Azure DevOps de build Android et iOS (runner macOS)
-- Sécuriser la gestion des certificats, keystores et profils de provisioning
-- Automatiser la soumission des builds sur l'App Store (App Store Connect / TestFlight) et le Play Store (Google Play Console)
-- Développer un MVP de dashboard de pilotage des builds (déclenchement, suivi, logs, historique) intégré à Azure DevOps
-- Tester la solution sur une application pilote, accompagner la migration depuis Appflow et réaliser l'étude de coûts (solution interne vs SaaS)
-
-Méthodologie et outils
-
-- Démarche : analyse de l'existant, benchmark, conception de l'architecture cible, développement itératif du MVP, tests sur une application pilote, migration et documentation
-- Outils : Azure DevOps (Repos, Pipelines), Azure, Xcode, Android Studio / Gradle, Ionic / Capacitor, Fastlane, App Store Connect / TestFlight, Google Play Console
-
-Profil recherché
-
-- Étudiant(e) en dernière année d'ingénierie ou de master en informatique, intéressé(e) par le DevOps et le développement mobile
-- Notions de CI/CD (Azure DevOps, GitHub Actions) et de Git
-- Connaissance du développement mobile hybride (Ionic / Capacitor, Angular) appréciée
-- Intérêt pour les environnements de build natifs (Xcode, Android Studio, signature des applications)
-- Compétences en développement web et intégration d'API REST
-- Rigueur, autonomie et bon niveau de rédaction en français
-
-Conditions
-
-- Stage de fin d'études (PFE) de 6 mois – stage de pré-embauche
-- Lieu : CAFPI SERVICES Tunisie, Les Berges du Lac, Tunis (sur site)
-- Stage rémunéré
-- Encadrement : équipe IT (développement mobile & DevOps), avec des points de suivi réguliers",https://fr.linkedin.com/company/cafpi-groupe,2026-11-14T09:23:12.103634+00:00,"stage pfe – ingénieur devops mobile : plateforme interne de build & déploiement (h/f)|cafpi|tunis, gouvernorat tunis, tunisie","[""Azure"", ""Angular"", ""Git""]","[""master""]",[],"[""Web Development"", ""Mobile Development"", ""Cloud and DevOps"", ""Business and Finance""]",rules
-4487188289,Stagiaire PFE - Data : Talk to My Data sur Databricks et Snowflake F/H,KPMG Tunisia,"Tunis, Gouvernorat Tunis, Tunisie",2026-11-09,https://tn.linkedin.com/jobs/view/stagiaire-pfe-data-talk-to-my-data-sur-databricks-et-snowflake-f-h-at-kpmg-tunisia-4487188289,"Vos Challenges
-
-Vos missions, en tant que stagiaire Data Engineer F/H sont :
-
-Concevoir et implémenter deux solutions comparables de type « Talk to My Data », l’une sur Databricks et l’autre sur Snowflake, permettant à des utilisateurs d’interroger des données en langage naturel dans un cadre sécurisé et gouverné.
-
--  Cadrer les cas d’usage, les jeux de données, les questions métiers et les critères d’évaluation du benchmark
--  Préparer les données, les métadonnées et la couche sémantique nécessaires à l’interrogation en langage naturel
--  Développer un premier démonstrateur avec Databricks SQL, Unity Catalog et les services Mosaic AI
--  Développer un second démonstrateur avec Snowflake, Cortex AI, Cortex Analyst et sa couche sémantique
--  Mettre en place des tests automatisés pour évaluer la pertinence, la robustesse, les performances, la sécurité et les coûts
-
-Réaliser un benchmark comparatif, formaliser les recommandations d’architecture et d’industrialisation, puis présenter les résultats au travers d’une démonstration finale
-
-Votre Profil
-
--  Vous êtes étudiant(e) en dernière année d’une école d’ingénieurs et recherchez un stage de fin d’études de 6 mois.
--  Vous avez une spécialisation en Data Engineering, Data Science, Cloud ou Intelligence Artificielle.
--  Vous maîtrisez Python et SQL et disposez de bonnes bases en modélisation, préparation et exploitation des données.
--  Vous avez un intérêt marqué pour les LLM, le RAG, le prompt engineering et les interfaces conversationnelles appliquées aux données.
--  Une première expérience de Databricks, de Snowflake ou d’une plateforme Data Cloud serait appréciée.
--  Une connaissance des APIs, des notebooks, de la recherche vectorielle ou des couches sémantiques constitue un plus.
--  Vous connaissez les outils de versioning et les pratiques Git, CI/CD et tests automatisés.
--  Vous êtes curieux(se), autonome, rigoureux(se) et doté(e) d’un esprit critique.
--  Vous disposez de bonnes capacités d’analyse, de synthèse et de présentation.
--  Vous appréciez le travail en équipe et savez documenter vos choix fonctionnels et techniques.
--  Vous maîtrisez le français et l’anglais dans un environnement professionnel.
-
-Votre environnement de travail",https://tn.linkedin.com/company/kpmg-tunisia,2026-11-14T09:23:17.888674+00:00,"stagiaire pfe - data : talk to my data sur databricks et snowflake f/h|kpmg tunisia|tunis, gouvernorat tunis, tunisie","[""Python"", ""SQL"", ""Data Science"", ""Git"", ""Software Testing""]","[""engineering""]","[""-  Une première expérience de Databricks, de Snowflake ou d’une plateforme Data Cloud serait appréciée.""]","[""AI"", ""Data Science""]",rules
-4487194033,Stagiaire PFE - Client & Market : Optimisation du site web comme levier de Business Development et de génération d’opportunités commerciales F/H,KPMG Tunisia,"Tunis, Gouvernorat Tunis, Tunisie",2026-11-09,https://tn.linkedin.com/jobs/view/stagiaire-pfe-client-market-optimisation-du-site-web-comme-levier-de-business-development-et-de-g%C3%A9n%C3%A9ration-d%E2%80%99opportunit%C3%A9s-commerciales-f-h-at-kpmg-tunisia-4487194033,"Vos Challenges
-
-From Website to Business : Optimisation du site web comme levier de Business Development et de génération d’opportunités commerciales.
-
-Ce PFE vise à étudier comment le site web de KPMG Tunisie peut évoluer d’une vitrine institutionnelle vers une véritable plateforme business, intégrée à la stratégie Clients & Markets et au Business Development du cabinet.
-
-Le projet portera sur l’analyse du parcours utilisateur, des contenus, des offres et expertises, des Call-to-Action et des points de conversion, afin d’identifier les leviers permettant de transformer l’audience digitale en contacts qualifiés et opportunités commerciales.
-
-Un benchmark des meilleures pratiques digitales des cabinets internationaux viendra compléter l’étude, notamment en matière de contenus, génération de leads, personnalisation et conversion. Le PFE explorera également les moyens de mesurer et piloter la performance du site web, notamment à travers des outils d’analyse web et SEO, afin d’identifier les indicateurs clés permettant d’évaluer sa visibilité, son attractivité, son engagement et sa contribution au développement commercial.
-
-L’objectif final est de proposer un modèle permettant de faire du site web un véritable levier mesurable de génération de business pour KPMG Tunisie.
-
-Votre Profil
-
-- Étudiant(e) Bac+5 en Marketing Digital, Business Analytics ou Business Intelligence, avec un fort intérêt pour le digital et le Business Development. Profil analytique, curieux et autonome, disposant de connaissances en SEO, Web Analytics, UX/UI, Data Visualization et, idéalement, CRM/Salesforce.
-
-Votre environnement de travail
-
-Informations additionnelles
-
-Les technologies à utiliser :
-
-- Adobe Analytics (prioritaire)
-- Google Analytics 4 (GA4)
-- Google Tag Manager
-- Microsoft Power BI
-- Excel
-- Microsoft Copilot
-- Adobe Photoshop
-
-Les livrables attendus : Un document final construit autour des chapitres suivants :
-
-- Audit du site web
-- Benchmark digital
-- Diagnostic SEO et Web Analytics
-- Modèle de génération et de qualification des leads
-- Roadmap opérationnelle",https://tn.linkedin.com/company/kpmg-tunisia,2026-11-14T09:23:23.102924+00:00,"stagiaire pfe - client & market : optimisation du site web comme levier de business development et de génération d’opportunités commerciales f/h|kpmg tunisia|tunis, gouvernorat tunis, tunisie","[""Power BI"", ""Excel""]","[""unspecified""]",[],"[""Marketing and Communication""]",rules
-4490733504,Software Development PFE Internship (Paid),Harvest Group,"Gouvernorat Sousse, Tunisie",2026-11-13,https://tn.linkedin.com/jobs/view/software-development-pfe-internship-paid-at-harvest-group-4490733504,"Harvest Group is looking for a motivated final-year student to join our team for a PFE (end-of-studies) internship in software development. You’ll work on real products, learn from experienced engineers, and build skills that set you up for a strong start to your career
-
-About Harvest Group
-
-Since 2006, Harvest Group has helped CPG suppliers grow their business with leading retailers including Walmart, Target, Amazon, Kroger, Sam’s Club, Costco, and Harris Teeter. Our connected commerce solution covers account management, digital content, retail media, and replenishment. Behind it is a multi-functional team of retail and technology experts using first-class systems to support clients at every step of the retail journey.
-
-Our culture is at the heart of everything we do, and it’s guided by five values:
-
-- Integrity: Doing what is right in all things
-- Relationship: Pursuing depth, trust, and collaboration
-- Service: Laboring for others with humility and care
-- Excellence: Delivering extraordinary performance and results
-- Journey: Embracing our past and planning for our future with faith
-
-What You’ll Do
-
-- Learn Harvest Group’s architecture and engineering principles, then apply them to real projects
-- Write clean, well-tested code following industry best practices
-- Deliver high-quality work on time within sprint cycles
-- Take part in Scrum ceremonies: daily stand-ups, sprint planning, reviews, and retrospectives
-- Work closely with teammates across different functions
-- Share your progress, challenges, and ideas openly with the team
-
-Who Can Apply
-
-We welcome final-year students preparing their PFE in any of the following:
-
-- Licence (Bachelor’s degree)
-- Engineering degree
-- Master’s degree
-
-The degree should be in computer science or a related field.
-
-What We’re Looking For
-
-- Fluent in English, both written and spoken
-- Comfortable programming in C# (.NET) and JavaScript/TypeScript (React); Python is a plus
-- A solid understanding of databases
-- Familiarity with AI tools like ChatGPT, Claude, or GitHub Copilot, and curiosity about how they can help you learn and code
-- A fast learner who’s excited to pick up new tools, frameworks, and technologies
-- Proactive and autonomous: you take initiative and drive work forward with the right amount of guidance
-- A strong problem-solver who enjoys debugging and working through technical challenges
-
-What We Offer
-
-- One of the best company cultures in the country, with an inclusive and supportive team
-- Competitive PFE compensation plus meal vouchers
-- Hands-on work on meaningful, real-world projects
-- Ongoing technical and soft-skills training
-- Plenty of room to grow, both personally and technically, so you stay challenged and never be bored
-- Full involvement in company events and team-building activities, so you’re part of the team from day one
-- A company laptop with everything you need to succeed
-
-How To Apply
-
-Send us your resume in English. Resumes in other languages will not be considered.",https://www.linkedin.com/company/the-harvest-group,2026-11-14T09:23:27.775194+00:00,"software development pfe internship (paid)|harvest group|gouvernorat sousse, tunisie","[""Python"", ""React"", ""Git"", ""JavaScript"", ""TypeScript""]","[""engineering"", ""master"", ""license""]",[],"[""Software Engineering""]",rules
-4490326595,Stage PFE:Business Development & International Expansion,Auto Sans Risque,"Tunis, Gouvernorat Tunis, Tunisie",2026-11-12,https://tn.linkedin.com/jobs/view/stage-pfe-business-development-international-expansion-at-auto-sans-risque-4490326595,"Auto Sans Risque est une startup technologique tunisienne qui transforme le marché de l'automobile d'occasion grâce à une plateforme digitale dédiée à l'inspection et au diagnostic automobile.
-Notre mission est de renforcer la transparence et la confiance dans les transactions automobiles en connectant les particuliers, les professionnels et les experts automobiles à travers des solutions digitales innovantes.
-
-Dans le cadre de notre développement et de nos ambitions de croissance, nous recherchons un(e) stagiaire PFE motivé(e) pour contribuer activement à notre stratégie de développement commercial en Tunisie et à l'international .
-
-🎯 Votre mission
-En collaboration directe avec la direction, vous participerez à la mise en œuvre de notre stratégie de développement commercial autour de trois axes principaux :
-1. Développement commercial local – Tunisie
-
-- Identifier et prospecter de nouveaux partenaires : concessionnaires, agences automobiles, garages, centres de diagnostic et professionnels du secteur.
-- Développer un portefeuille de nouveaux clients et partenaires B2B.
-- Présenter les services et les solutions d'Auto Sans Risque aux prospects.
-- Organiser et participer aux rendez-vous commerciaux et négociations.
-- Contribuer à la conclusion de nouveaux partenariats et au développement du réseau national.
-2. Développement et expansion internationale
-
-- Identifier de nouveaux marchés à fort potentiel pour Auto Sans Risque.
-- Réaliser des études de marché et des analyses concurrentielles.
-- Identifier des partenaires stratégiques à l'étranger.
-- Prospecter des acteurs internationaux du secteur automobile.
-- Étudier les opportunités de développement dans les marchés MENA, européens et autres marchés ciblés.
-- Participer à la préparation de notre stratégie d'internationalisation.
-3. Stratégie commerciale et croissance
-
-- Participer à l'élaboration de stratégies de prospection et d'acquisition.
-- Mettre en place des outils de suivi commercial et de gestion des prospects (CRM).
-- Analyser les résultats des actions commerciales et proposer des axes d'amélioration.
-- Contribuer à la structuration de notre stratégie de croissance et de développement.
-
-👤 Profil recherché
-
-- Étudiant(e) en dernière année de licence ou de master (PFE) en commerce, marketing, management, business development, entrepreneuriat ou commerce international.
-- Excellent sens de la communication et de la négociation.
-- Intérêt pour le développement commercial et l'entrepreneuriat.
-- Capacité à identifier des opportunités et à prendre des initiatives.
-- Bonnes capacités d'analyse, de recherche et de prospection.
-- Maîtrise du français et de l'anglais. L'arabe est un atout.
-- La connaissance du secteur automobile et de l'écosystème des startups constitue un avantage.
-
-🌟 Ce que nous proposons
-
-- Une expérience concrète au sein d'une startup technologique en pleine croissance.
-- Une collaboration directe avec le CEO et une participation aux décisions stratégiques.
-- Une implication réelle dans le développement commercial et les partenariats.
-- Une exposition aux enjeux du développement international et de l'expansion sur de nouveaux marchés.
-- Un sujet de PFE concret, avec des objectifs mesurables et un impact direct sur la croissance de l'entreprise .
-
-📩 Candidature
-Vous êtes ambitieux(se), autonome et souhaitez contribuer au développement d'une startup innovante avec des ambitions internationales ?
-Envoyez votre CV accompagné de quelques lignes de motivation à :
-📧 info@auto-sans-risque.com
-Rejoignez Auto Sans Risque et participez à la transformation du marché automobile ! 🚗",https://tn.linkedin.com/company/auto-sans-risque,2026-11-14T09:23:31.576430+00:00,"stage pfe:business development & international expansion|auto sans risque|tunis, gouvernorat tunis, tunisie",[],"[""master"", ""license""]",[],"[""Marketing and Communication""]",rules
-4488721245,PFE Design produit Enceinte audio de luxe,"Hera Events, Deco & Co","Tunis, Gouvernorat Tunis, Tunisie",2026-11-07,https://tn.linkedin.com/jobs/view/pfe-design-produit-enceinte-audio-de-luxe-at-hera-events-deco-co-4488721245,"H-ROW recrute deux stagiaires PFE en design, au S1 2027, en Tunisie.
-H-ROW est un atelier acoustique haut de gamme. Nous redonnons vie à des haut-parleurs vintage d’exception en concevant autour d’eux de nouvelles enceintes, habillées de bois méditerranéens comme l’olivier et le palmier. Luxe, seconde vie, savoir-faire : notre première enceinte, Julia, est prête à prendre forme.
-Deux postes, une équipe :
-Stagiaire 1 : Design graphique et identité de marque
-
-- Créer l’identité visuelle complète de H-ROW : logo, typographies, palette, langage des matières
-- Concevoir les marquages, gravures et plaques des éditions numérotées
-- Réaliser les rendus et supports de promotion
-Stagiaire 2 : Design produit
-
-- Proposer le design de l’enceinte Julia, avec une liberté de forme totale dans le respect des contraintes acoustiques
-- Mener une étude de faisabilité sur les bois (olivier, palmier, placage) avec des artisans tunisiens
-- Modéliser en 3D, produire le dossier de fabrication et suivre le prototype avec un menuisier
-Profils recherchés
-
-- Étudiants en fin de cursus de design graphique, communication visuelle, design produit ou design industriel
-- Pour le design produit : maîtrise de Shapr3D, Fusion 360 ou SolidWorks
-- Sensibilité au luxe, aux matériaux et à l’artisanat ; un intérêt pour l’audio est un plus
-- Rigueur, autonomie, respect des délais
 Ce que nous offrons
 
-- Un vrai produit, fabriqué et commercialisé en Europe
-- Une liberté créative réelle
-- Un suivi hebdomadaire par le fondateur
-Candidature : CV et portfolio à aymen@hera.events, en précisant le poste visé.",https://tn.linkedin.com/company/heraeventsdecoandco,2026-11-14T09:23:34.832598+00:00,"pfe design produit enceinte audio de luxe|hera events, deco & co|tunis, gouvernorat tunis, tunisie","[""SolidWorks""]","[""unspecified""]",[],"[""Marketing and Communication""]",rules
-4486423432,Digital Marketing & Public Relation Intern,Four Seasons,"Tunis, Gouvernorat Tunis, Tunisie",2026-11-02,https://tn.linkedin.com/jobs/view/digital-marketing-public-relation-intern-at-four-seasons-4486423432,"About Four Seasons
 
-Four Seasons is powered by our people. We are a collective of individuals who crave to become better, to push ourselves to new heights and to treat each other as we wish to be treated in return. Our team members around the world create amazing experiences for our guests, residents, and partners through a commitment to luxury with genuine heart. We know that the best way to enable our people to deliver these exceptional guest experiences is through a world-class employee experience and company culture.
 
-At Four Seasons, we believe in recognizing a familiar face, welcoming a new one and treating everyone we meet the way we would want to be treated ourselves. Whether you work with us, stay with us, live with us or discover with us, we believe our purpose is to create impressions that will stay with you for a lifetime. It comes from our belief that life is richer when we truly connect to the people and the world around us.
+Une intégration au sein de nos équipes comme consultant, avec une participation active aux projets et aux échanges avec les équipes.
+Un stage de fin d’études inscrit dans une logique de préembauche, selon les besoins de l’activité et la réussite du stage.
+Une communauté internationale réunissant plus de 110 nationalités différentes.
+Un environnement où la confiance a une place centrale : 70% de nos leaders clés ont commencé leur carrière au premier niveau de responsabilités.
+Un système de formation solide avec notre Académie interne et plus de 250 modules disponibles.
+Un lieu de travail dynamique qui se réunit fréquemment pour des événements internes : afterworks, team buildings, etc.
 
-About the location:
 
-Beachfront relaxation on north Africa’s Mediterranean coast. In the heart of Tunisia’s vibrant and exotic capital city, our modern Mediterranean oasis offers a calm, laid-back beachfront escape alongside this bustling business hub. Relax at our Spa and pools, stay connected with state-of-the-art business services, or take a step back in time – more than 3,000 years of ancient civilization are at your fingertips.
 
-About The Role
+Amaris Consulting s’engage à promouvoir la diversité au sein de ses effectifs et à créer un environnement de travail inclusif. Nous étudions les candidatures de toutes personnes qualifiées, indépendamment de leur sexe, orientation sexuelle, race, origine ethnique, croyances, âge, état civil, handicap ou toute autre caractéristique.",https://ch.linkedin.com/company/amarisconsulting,2026-10-16T14:05:43.869196,"[""Python"", ""SQL"", ""Deep Learning"", ""Data Analysis"", ""Power BI"", ""Excel""]","[""engineering"", ""master""]","[""Selon le sujet retenu, vous contribuerez à l’optimisation de processus opérationnels, au contrôle qualité des données, à la supervision des demandes fibre ou radio, à l’analyse des anomalies, à la digitalisation des livrables techniques ou encore à l’amélioration des outils de pilotage projet."", ""Première expérience académique ou projet significatif en télécommunications, radio, fibre optique, data, SIG, automatisation, systèmes d’information ou amélioration continue."", ""Intérêt pour les environnements projet, les infrastructures télécoms, les réseaux radio et l’amélioration continue."", ""Sujet 18 : Optimiser la gestion des stocks et le suivi de la performance du projet."", ""Sujet 22 : Simulation de scénarios et anticipation des risques projet"", ""Sujet 25 : Suivi et analyse des indicateurs de performance projet"", ""Sujet 27 : Contrôle et audit des mesures du projet"", ""Sujet 29 : Standardisation et optimisation des livrables du projet"", ""Sujet 85 : Découvrir l’univers des télécoms et des opérateurs, maîtriser les outils SIG et apprendre à produire et contrôler les livrables techniques (APS / APD / DOE) dans le respect des règles d’ingénierie du client pour le déploiement des réseaux FTTx.APD Generator : conception d’une solution automatisée pour la production des APD FTTX et la traçabilité des données projet""]","[""Data Analysis""]"
+4424722856,https://tn.linkedin.com/jobs/view/stagiaire-ressources-humaines-at-segula-technologies-4424722856,Stagiaire Ressources Humaines,SEGULA Technologies,"Tunis, Tunis, Tunisia",2026-10-12,stage,"Administration du personnel
 
-The Digital Marketing & Public Relations Intern supports the execution of the hotel's digital marketing, communication, and public relations initiatives in alignment with Four Seasons brand standards.
 
-What You Will Do
+Participer à la gestion administrative des collaborateurs (contrats, avenants, attestations, dossiers du personnel, etc.).
+Assurer la mise à jour et le suivi des bases de données RH.
+Contribuer à la préparation et à l'archivage des documents administratifs.
+Participer au suivi des absences, congés et mouvements du personnel.
 
-- Manage and schedule content across the hotel's social media platforms.
-- Monitor social media engagement and support community management.
-- Maintain and update social media content calendars and campaign timelines.
-- Create engaging photo, video, and written content for digital channels.
-- Support SEO initiatives by optimizing website content and monitoring keyword performance.
-- Assist with photo shoots, video production, and digital asset management.
-- Monitor social media, hospitality, and competitor trends to identify content opportunities.
-- Support influencer, content creator, and media collaborations.
-- Assist with public relations activities, including media outreach, press kits, and media monitoring.
-- Track campaign performance, online reviews, and guest feedback while preparing marketing and PR reports.
 
-What You Bring
+Accompagnement des activités RH
 
-- Final-year student seeking a 6-month Graduation Project Internship (PFE) in Marketing, Communications, Public Relations, Digital Media, Hospitality, or a related field.
-- Strong interest in digital marketing, social media, content creation, SEO, communications, and public relations.
-- Excellent written and verbal communication skills in English and French.
-- Familiarity with major social media platforms and basic knowledge of social media management and analytics tools such as Meta Business Suite, Sprout Social, or similar platforms.
-- Familiarity with SEO principles, website content management, and digital marketing best practices is an asset.
-- Basic knowledge of content creation tools such as Canva, Adobe Creative Suite, CapCut, or similar platforms.
-- Analytical mindset with an interest in campaign performance tracking and reporting.
-- Attention to detail, creativity, and a proactive approach to learning.
-- Comfortable working with Microsoft Office applications, particularly PowerPoint and Excel.
-- Passion for storytelling, luxury hospitality, travel, lifestyle, and creating engaging digital experiences.
+
+Participer à la préparation des reportings et tableaux de bord RH.
+Contribuer à l'analyse des indicateurs RH.
+Assister dans la coordination des actions de recrutement et d'intégration des nouveaux collaborateurs.
+Participer à l'organisation d'événements RH et initiatives d'engagement des collaborateurs.
+
+
+Projets RH
+
+
+Contribuer à différents projets liés à l'expérience collaborateur, à la communication RH ou au développement des talents.
+Réaliser des recherches et benchmarks sur les bonnes pratiques RH.
+Participer à l'amélioration continue des processus RH.
+Étudiant(e) en Master en Ressources Humaines, Gestion, Psychologie du Travail ou domaine équivalent.
+Intérêt marqué pour les Ressources Humaines et la gestion des talents.
+Maîtrise des outils bureautiques (Excel, PowerPoint, Word).
+Bon niveau de communication écrite et orale en français ; l'anglais est un atout.
+Rigueur, sens de l'organisation et confidentialité.
+Esprit d'équipe, curiosité et proactivité.
+
+
+SEGULA Technologies is a global engineering group, boosting the competitiveness of all major industrial sectors: automotive, aerospace, energy, rail, naval, life sciences, and telecoms. With a presence in more than 30 countries and 140 locations worldwide, the Group prioritizes close relationships with its clients, driven by the expertise of its 15,000 employees. As a leading engineering player putting innovation at the heart of its strategy, SEGULA Technologies manages large-scale projects, ranging from initial studies to industrialization and production. SEGULA TECHNOLOGIES is dedicated to gender balance and diversity, recognizing and recruiting talent of all backgrounds.",https://fr.linkedin.com/company/segula-technologies,2026-10-16T14:05:47.635941,"[""Excel""]","[""engineering"", ""master""]",[],"[""Human Resources""]"
+4476786383,https://tn.linkedin.com/jobs/view/college-intern-technical-support-english-speaker-at-hewlett-packard-enterprise-4476786383,College Intern Technical Support - English Speaker,Hewlett Packard Enterprise,"Ariana, Tunisia",2026-10-13,stage,"This role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office.
+
+Who We Are
+
+Hewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.
+
+Job Description
+
+HPE University Hiring Program
+
+Are you ready to give your career the boost it deserves?
+
+College Intern – Technical Support
+
+As a College Intern Technical Support Engineer, you will build practical experience supporting enterprise technology environments. You will work with experienced engineers, learn HPE support methodologies and tools, contribute to technical investigations, and help create a consistent, high-quality customer experience.
+
+Job Responsibilities
+
+
+Assess and troubleshoot customer technical issues across supported infrastructure and software domains under the guidance of experienced engineers.
+Demonstrate ownership by maintaining clear case documentation, progressing agreed actions, and communicating status accurately and professionally.
+Collaborate with Front-End Engineers, Back-End Engineers, Expert Center teams, product engineering, partners, and other stakeholders to accelerate resolution.
+Use established diagnostic methods, knowledge resources, support tools, automation, and approved AI capabilities to improve investigation quality and efficiency.
+Collect and analyze logs, reproduce issues where appropriate, validate solutions, and contribute to technical action plans.
+Create and improve reusable knowledge by documenting findings, solutions, lessons learned, and recurring issue patterns.
+Follow HPE quality, security, privacy, compliance, and escalation processes while protecting customer and company information.
+Participate in learning plans, technical readiness activities, certifications, team initiatives, and continuous-improvement projects.
+Support a global customer base and collaborate across time zones, including scheduled coverage when required by the business.
+
+
+Technical Areas
+
+Core infrastructure
+
+Servers, storage, operating systems, networking, virtualization, databases, backup and recovery.
+
+Hybrid cloud and platforms
+
+Private and public cloud, containers, infrastructure automation, platform operations, and security fundamentals.
+
+Emerging technologies
+
+AI and data concepts, observability, automation, and modern HPE technology platforms relevant to the assigned team.
+
+Prerequisites
+
+
+Excellent Communication Skills
+Fluency in either Italian, French, or Spanish (Speaking and Writing); English is mandatory
+Passion to learn and act quickly, with a flair for technology and latest developments
+Strong problem-solving skills, with the ability to work in a fast-paced environment and manage multiple tasks
+Flexible to work across time zones
+
+
+Accessibility
+
+HPE is committed to creating an inclusive and accessible workplace and encourages applications from all qualified individuals, including those with disabilities. If you believe you require accommodation during any stage of the application or interview process, please submit your request by completing our secure form linked here.
+
+Note: This option is reserved for applicants needing assistance/reasonable accommodation related to a disability.
+
+What We Can Offer You
+
+Health & Wellbeing
+
+We strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing.
+
+Personal & Professional Development
+
+We also invest in your career because the better you are, the better we all are. We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division.
+
+Unconditional Inclusion
+
+We are unconditionally inclusive in the way we work and celebrate individual uniqueness. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good.
+
+Let's Stay Connected
+
+Follow @HPECareers on Instagram to see the latest on people, culture and tech at HPE.
+
+#tunisia
+
+#interns
+
+Job
+
+Administration
+
+Job Level
+
+N/A
+
+HPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT employer. We do not discriminate on the basis of race, gender, or any other protected category, and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together. Please click here: Equal Employment Opportunity.
+
+Hewlett Packard Enterprise is EEO Protected Veteran/ Individual with Disabilities.
+
+HPE will comply with all applicable laws related to employer use of arrest and conviction records, including laws requiring employers to consider for employment qualified applicants with criminal histories.
+
+Recruitment Fraud Alert
+
+We have become aware of an increase in fraudulent recruitment activities in which individuals impersonate our company or authorized recruitment agencies to offer fake employment opportunities. These scams may occur through false websites, emails, social media, or chat-based applications and often aim to obtain personal information or money. Please note that Hewlett Packard Enterprise (HPE), its direct and indirect subsidiaries and affiliated companies, and its authorized recruitment agencies/vendors will never charge a candidate a registration fee, hiring fee, or any other fee in connection with its recruitment and hiring process. We also never request personal information such as back account details, Social Security numbers, or national IDs via social media or chat applications.
+
+All legitimate job opportunities will come through official company channels, and candidates are responsible for verifying the credentials of any third party claiming to represent the company. Any reliance on fraudulent communication is at the individual’s own risk, and HPE disclaims legal liability for any resulting damages. If you suspect recruitment fraud, do not share personal information or make any payments and report the incident to your local authorities immediately.",https://www.linkedin.com/company/hewlett-packard-enterprise,2026-10-16T14:05:51.816125,[],"[""engineering""]","[""As a College Intern Technical Support Engineer, you will build practical experience supporting enterprise technology environments."", ""You will work with experienced engineers, learn HPE support methodologies and tools, contribute to technical investigations, and help create a consistent, high-quality customer experience."", ""Assess and troubleshoot customer technical issues across supported infrastructure and software domains under the guidance of experienced engineers.""]",[]
+4471346443,https://tn.linkedin.com/jobs/view/internship-tunis-functional-product-engineer-at-murex-4471346443,INTERNSHIP TUNIS - Functional Product Engineer,Murex,"Tunis, Tunis, Tunisia",2026-09-28,stage,"Murex is a global fintech leader in trading, risk management and processing solutions for capital markets.
+
+Operating from our 19 offices, 3 400 Murexians from over 65 different nationalities ensure the development, implementation and support of our platform which is used by banks, asset managers, corporations and utilities, across the world.
+
+Join Murex and work on the challenges of an industry at the forefront of innovation and thrive in a people-centric environment. You’ll be part of one global team where you can learn fast and stay true to yourself.
+
+Team & Context
+
+As part of our strategic expansion, we are looking for Interns to join our Client Services EMEA domain in Tunis.
+
+You will be part of a newly established team fully integrated into our regional organization and working in close collaboration with our Paris office.
+
+Depending on your scope, you will contribute to functional domains such as:
+
+
+Trading (Fixed Income, Equities, FX, Commodities, Derivatives…)
+Risk Management (Market, Credit, Risk Control…)
+Operations (Back Office, Collateral, Settlements, Regulatory, Lifecycle…)
+
+
+Although based in Tunis, the team operates as an extension of our EMEA structure: it combines local proximity and autonomy with strong functional alignment and support from Paris, offering exposure to large‑scale initiatives and a diverse European client base.
+
+Your missions
+
+As An Intern You Will
+
+
+Provide functional support to clients by analyzing, following up, and resolving issues
+Contribute to implementation, upgrade, and migration projects as part of a project stream
+Participate in client workshops and functional design discussions
+Manage defects, configuration, and product enhancements in collaboration with internal teams
+Deliver training sessions (internal and client-facing) and contribute to documentation
+Support client activities on-site when required
+Gradually take ownership as a Support Coordinator, with guidance from senior team members
+Contribute to internal initiatives and product evolution streams
+Participate in pre-sales activities and demos, supporting senior consultants
+
+
+Your profile
+
+
+Master’s degree (engineering school and/or university) with a specialization in financial markets, finance, or applied mathematics
+Strong interest in IT and software environments (knowledge of Unix, SQL, databases; Python is a plus)
+Excellent analytical and problem-solving skills
+Client-oriented mindset with strong communication and interpersonal abilities
+Ability to work independently, take initiative, and prioritize in a fast-paced environment
+Fluency in English is required",https://fr.linkedin.com/company/murex,2026-10-16T14:05:56.101654,"[""Python"", ""SQL""]","[""engineering"", ""master""]","[""Contribute to implementation, upgrade, and migration projects as part of a project stream""]","[""Business and Finance""]"
+4470814008,https://tn.linkedin.com/jobs/view/stagiaire-pfe-d%C3%A9veloppeur-web-wordpress-elementor-t%C3%A9l%C3%A9travail-at-alirna-4470814008,Stagiaire PFE Développeur Web WordPress / Elementor - Télétravail,Alirna,Tunisia,2026-09-27,stage,"Alirna est une agence digitale spécialisée dans la création de sites internet professionnels pour des clients français.
+
+
+
+
+Dans le cadre de notre développement, nous recherchons un(e) stagiaire PFE en développement web pour participer à la création de sites internet WordPress à partir de modèles déjà existants.
+
+
+
+
+Le stage se déroule à 100 % en télétravail. Vous serez accompagné(e), formé(e) à notre méthode de travail et intégré(e) à un processus de production simple, clair et structuré.
+
+
+
+
+Vos missions
+
+
+
+
+
+Créer des sites internet WordPress à partir de modèles existants.
+
+
+Adapter les contenus, images, textes et sections selon les besoins du client.
+
+
+Utiliser Elementor pour modifier et personnaliser les pages.
+
+
+Vérifier l’affichage responsive sur ordinateur, tablette et mobile.
+
+
+Effectuer les corrections demandées avant livraison.
+
+
+Respecter les consignes de qualité, de design et de structure.
+
+
+Travailler avec des outils de suivi de projet et de communication à distance.
+
+
+Participer progressivement à l’amélioration des modèles existants.
+
+
+
+
+
+
+
+
+
+Vos compétences
+
+
+
+
+
+Être étudiant(e) en développement web, informatique, multimédia, digital ou domaine équivalent.
+
+
+Rechercher un stage PFE ou un stage conventionné.
+
+
+Avoir des bases solides en WordPress.
+
+
+Connaître Elementor ou être capable de l’apprendre rapidement.
+
+
+Avoir un bon sens du détail et du design.
+
+
+Être sérieux(se), autonome et rigoureux(se).
+
+
+Disposer d’un ordinateur personnel et d’une connexion Internet stable.
+
+
+
+
+
+
+
+
+
+Avantages
+
+
+
+
+
+Stage à 100 % en télétravail.
+
+
+Formation à une méthode de production concrète.
+
+
+Participation à des projets réels pour des clients français.
+
+
+Modèles de sites déjà prêts.
+
+
+Accompagnement et montée en compétence.
+
+
+Possibilité de collaboration après le stage selon les résultats.
+
+
+Indemnité de stage possible selon profil et convention.
+
+
+
+
+
+
+
+
+
+Ce stage est idéal pour un(e) étudiant(e) souhaitant progresser rapidement sur WordPress, Elementor et la création de sites professionnels.
+
+
+
+
+Merci de nous transmettre :
+
+
+
+
+
+votre CV ;
+
+
+quelques exemples de projets ou réalisations si vous en avez ;
+
+
+la durée souhaitée du stage ;
+
+
+la période de disponibilité ;
+
+
+la possibilité de fournir une convention de stage.",https://tn.linkedin.com/company/alirna,2026-10-16T14:05:58.888190,[],"[""unspecified""]","[""Travailler avec des outils de suivi de projet et de communication à distance.""]","[""Web Development""]"
+4479295088,https://tn.linkedin.com/jobs/view/end-of-studies-hr-intern-at-faurecia-4479295088,End-of-Studies HR Intern,Faurecia,"Tunis, Tunisia",2026-10-14,stage,"FORVIA, a sustainable mobility technology leader
+
+We pioneer technology for mobility experience that matter to people.
+
+
+
+
+Forvia Informatique Tunisie (FIT), a leader in the automotive sector, is looking for an End-of-Studies HR Intern to join our Global HR Department, with the possibility of pre-employment upon successful completion of the internship.
+
+
+
+
+Responsibilities:
+
+
+
+
+Provide day-to-day HR administrative support.
+Participate in recruitment activities (sourcing, candidate pre-screening, and phone interviews).
+Support the organization and monitoring of training activities.
+Update HR reports and databases.
+Assist the HR team with various projects and day-to-day activities.
+
+
+
+
+Profile:
+
+
+
+
+Final-year student pursuing a Bachelor's degree in Human Resources, Psychology, Management or a related field.
+Fluent in french and english
+Strong interest in Human Resources.
+Good communication and interpersonal skills.
+Organized, detail-oriented, and proactive.
+Proficient in Microsoft Office tools.
+
+
+
+
+Why join us:
+
+FORVIA, the world’s seventh largest automotive technology player, comprises the complementary technology and industrial strengths of Faurecia and HELLA.
+
+With over 300 industrial sites and 77 R&D centers, 157,000 people, including more than 35,000 engineers across 40+ countries, FORVIA provides a unique and comprehensive approach to the automotive challenges of today and tomorrow.
+
+Composed of 6 business groups with 24 product lines, FORVIA is focused on becoming the preferred innovation and integration partner for OEMs worldwide.
+
+The Group provides solutions for a safe, sustainable, advanced and customized mobility, FORVIA aims to be a change maker committed to foreseeing and making the mobility transformation happen.
+
+If you’re ready to contribute to a dynamic procurement team and grow your career, we’d love to hear from you!
+
+📩 Apply now or visit our website to learn more: www.forvia.com
+
+
+
+
+@forvia, @faurecia, @hella
+
+#inspiringmobility#forviaproud#FaureciaInformatiqueTunisie#FIT #VersLavant",https://fr.linkedin.com/company/faurecia,2026-10-16T14:06:02.939004,[],"[""license""]","[""We pioneer technology for mobility experience that matter to people.""]","[""Human Resources""]"
+4474867489,https://tn.linkedin.com/jobs/view/praktikant-in-fotografie-a-at-ringier-axel-springer-media-ag-4474867489,Praktikant:in Fotografie (a)*,Ringier Axel Springer Media AG,"Zahret Medien, Béja, Tunisia",2026-10-09,stage,"Hast du das Zeug dazu mit uns den Journalismus zu revolutionieren? Finde es in deinem sechsmonatigen Praktikum (mit Option auf Verlängerung) bei uns heraus! Werde Teil von Blick - wir wollen dich ab November 2026 als Praktikant:in Fotografie. Der Schwerpunkt deines Praktikums liegt primär bei der Blick-Gruppe. Darüber hinaus hast du bei passenden Projekten auch die Möglichkeit, deine Bilder für weitere starke Titel von Ringier Medien Schweiz (RMS) beizusteuern.
+
+Mehr als 4, 6 Millionen Leser/innen nutzen und vertrauen den Medienmarken von RMS. Zum Portfolio gehören der Blick sowie die reichweitenstärksten Magazin- und Zeitschriftentitel wie Beobachter, Handelszeitung, Bilanz, cash.ch, Tele, Schweizer Illustrierte, Landliebe, Glückspost, L'Illustré und PME. Mit ihrem breiten Themenspektrum, ihrer herausragenden Reichweite und ihren starken Inhalten positioniert sich RMS als das zukunftsorientierte Medienhaus der Schweiz und ist, unterstützt durch die Vermarktungseinheit Ringier Advertising, bereits heute der bevorzugte Partner für Werbekunden, die attraktive und effiziente Werbelösungen suchen.
+
+Deine Aufgaben
+
+
+Mit deinem Auge für das perfekte Motiv schaffst du es, unsere Leser zu berühren und starke Emotionen auszulösen
+Du bist oft im Ausseneinsatz und hältst vor Ort Momente in Bildern fest
+Du bearbeitest deine Bilder in Adobe Photoshop oder Lightroom
+Du bewertest Bilder bezüglich ihrer Aussagekraft, der optischen Umsetzung und technischer Qualität
+Mit deiner Fotokamera wirst du auch spannende Videobeiträge gestalten
+Während des Praktikums gibt es auch die Möglichkeit, für andere Ringier Medien Schweiz Titel fotografische Arbeiten zu erledigen
+
+
+Dein Profil
+
+
+Du hast bereits erste Erfahrung im Bereich Fotografie, vorteilsweise auch im Bereich Video, und möchtest deine Kenntnisse vertiefen
+Du besitzt dein eigenes Equipment und bist mit eigenen, gültigen Führerschein flexibel unterwegs
+Du hegst eine Faszination für Presse-Fotografie und Bildbeschaffung
+Du bist News-affin und bist immer auf dem neuesten Stand (Politik, People, Lifestyle etc.)
+Du besitzt eine rasche Auffassungsgabe und bleibst auch in hektischen Situationen gelassen
+Du bist bereit, auch an Wochenenden und am Abend Einsätze zu leisten
+Du bist aufgeschlossen, auch im Bereich der künstlichen Intelligenz (Prompten von AI-generierten Fotos via Midjourney und Co.) dazuzulernen
+
+
+Recruiting Prozess
+
+
+Dein Profil passt? Dann kann es schnell gehen! Unser Anspruch ist, innerhalb kurzer Zeit zum Vertragsabschluss zu kommen
+Nach dem Prüfen deiner Unterlagen wird es ein Telefongespräch für erste Abklärungen und der Terminvereinbarung geben
+Dann erfolgt bestenfalls bereits das Vertragsangebot
+
+
+Hast du Lust, in diesem vielfältigen Arbeitsumfeld und in unserem tollen Team zu arbeiten? Dann freuen wir uns auf deine Bewerbung inklusive Arbeitsproben (Wahlweise als PDF, Link zu deiner Website/Portfolio oder Link zu deinem Instagram Account, insofern deine Arbeitsproben dort ersichtlich sind) .
+
+Wir bekennen Farbe und sind überzeugt, dass Vielfalt eine Chance ist. *Alle sollen genau so sein, wie sie sind. Wir kreieren ein Arbeitsumfeld, in dem das möglich ist.
+
+Für diese Stelle berücksichtigen wir ausschliesslich Direktbewerbungen.
+
+Young Talents praktikum@ringier.ch",https://ch.linkedin.com/company/ringier-axel-springer-media-ag,2026-10-16T14:06:07.030514,[],"[""unspecified""]",[],[]
+4415813753,https://tn.linkedin.com/jobs/view/project-engineer-intern-at-valeo-4415813753,Project Engineer Intern,Valeo,"Enfidha, Sousse, Tunisia",2026-10-15,stage,"Sujet : Développement d’une GUI pour le projet de contrôle des pièces peintes par IA
+
+Missions à Confier
+
+
+Préparer et développer une interface graphique détaillée.
+Créer et structurer les fichier json.
+Intégrer le résultat dans le réseau Valeo.
+
+
+Diplôme/Spécialité
+
+Ingénieur en Informatique industrielle / Systèmes embarqués",https://fr.linkedin.com/company/valeo,2026-10-16T14:06:10.612168,[],"[""engineering""]","[""Sujet : Développement d’une GUI pour le projet de contrôle des pièces peintes par IA""]","[""Embedded Systems""]"
+4476786380,https://tn.linkedin.com/jobs/view/college-intern-technical-support-french-speaker-at-hewlett-packard-enterprise-4476786380,College Intern Technical Support - French Speaker,Hewlett Packard Enterprise,"Ariana, Tunisia",2026-10-12,stage,"This role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office.
+
+Who We Are
+
+Hewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.
+
+Job Description
+
+HPE University Hiring Program
+
+Are you ready to give your career the boost it deserves?
+
+College Intern - Technical Support
+
+As a College Intern Technical Support Engineer, you will build practical experience supporting enterprise technology environments. You will work with experienced engineers, learn HPE support methodologies and tools, contribute to technical investigations, and help create a consistent, high-quality customer experience.
+
+Job Responsibilities
+
+
+Assess and troubleshoot customer technical issues across supported infrastructure and software domains under the guidance of experienced engineers.
+Demonstrate ownership by maintaining clear case documentation, progressing agreed actions, and communicating status accurately and professionally.
+Collaborate with Front-End Engineers, Back-End Engineers, Expert Center teams, product engineering, partners, and other stakeholders to accelerate resolution.
+Use established diagnostic methods, knowledge resources, support tools, automation, and approved AI capabilities to improve investigation quality and efficiency.
+Collect and analyze logs, reproduce issues where appropriate, validate solutions, and contribute to technical action plans.
+Create and improve reusable knowledge by documenting findings, solutions, lessons learned, and recurring issue patterns.
+Follow HPE quality, security, privacy, compliance, and escalation processes while protecting customer and company information.
+Participate in learning plans, technical readiness activities, certifications, team initiatives, and continuous-improvement projects.
+Support a global customer base and collaborate across time zones, including scheduled coverage when required by the business.
+
+
+Technical Areas
+
+Core infrastructure
+
+Servers, storage, operating systems, networking, virtualization, databases, backup and recovery.
+
+Hybrid cloud and platforms
+
+Private and public cloud, containers, infrastructure automation, platform operations, and security fundamentals.
+
+Emerging technologies
+
+AI and data concepts, observability, automation, and modern HPE technology platforms relevant to the assigned team.
+
+Prerequisites
+
+
+Excellent Communication Skills
+French and English are required (written and spoken). Knowledge of additional languages, such as Spanish or Italian, is a plus.
+Passion to learn and act quickly, with a flair for technology and latest developments
+Strong problem-solving skills, with the ability to work in a fast-paced environment and manage multiple tasks
+Flexible to work across time zones
+
+
+Accessibility
+
+HPE is committed to creating an inclusive and accessible workplace and encourages applications from all qualified individuals, including those with disabilities. If you believe you require accommodation during any stage of the application or interview process, please submit your request by completing our secure form linked here.
+
+Note: This option is reserved for applicants needing assistance/reasonable accommodation related to a disability.
+
+What We Can Offer You
+
+Health & Wellbeing
+
+We strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing.
+
+Personal & Professional Development
+
+We also invest in your career because the better you are, the better we all are. We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division.
+
+Unconditional Inclusion
+
+We are unconditionally inclusive in the way we work and celebrate individual uniqueness. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good.
+
+Let's Stay Connected
+
+Follow @HPECareers on Instagram to see the latest on people, culture and tech at HPE.
+
+#tunisia
+
+#interns
+
+Job
+
+Administration
+
+Job Level
+
+N/A
+
+HPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT employer. We do not discriminate on the basis of race, gender, or any other protected category, and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together. Please click here: Equal Employment Opportunity.
+
+Hewlett Packard Enterprise is EEO Protected Veteran/ Individual with Disabilities.
+
+HPE will comply with all applicable laws related to employer use of arrest and conviction records, including laws requiring employers to consider for employment qualified applicants with criminal histories.
+
+Recruitment Fraud Alert
+
+We have become aware of an increase in fraudulent recruitment activities in which individuals impersonate our company or authorized recruitment agencies to offer fake employment opportunities. These scams may occur through false websites, emails, social media, or chat-based applications and often aim to obtain personal information or money. Please note that Hewlett Packard Enterprise (HPE), its direct and indirect subsidiaries and affiliated companies, and its authorized recruitment agencies/vendors will never charge a candidate a registration fee, hiring fee, or any other fee in connection with its recruitment and hiring process. We also never request personal information such as back account details, Social Security numbers, or national IDs via social media or chat applications.
+
+All legitimate job opportunities will come through official company channels, and candidates are responsible for verifying the credentials of any third party claiming to represent the company. Any reliance on fraudulent communication is at the individual’s own risk, and HPE disclaims legal liability for any resulting damages. If you suspect recruitment fraud, do not share personal information or make any payments and report the incident to your local authorities immediately.",https://www.linkedin.com/company/hewlett-packard-enterprise,2026-10-16T14:06:14.253199,[],"[""engineering""]","[""As a College Intern Technical Support Engineer, you will build practical experience supporting enterprise technology environments."", ""You will work with experienced engineers, learn HPE support methodologies and tools, contribute to technical investigations, and help create a consistent, high-quality customer experience."", ""Assess and troubleshoot customer technical issues across supported infrastructure and software domains under the guidance of experienced engineers.""]",[]
+4475776047,https://tn.linkedin.com/jobs/view/coordinateur-ice-de-programme-stage-acad%C3%A9mie-des-talents-m%C3%A9diterran%C3%A9ens-atm-at-inco-4475776047,Coordinateur-ice de programme (stage) - Académie des Talents Méditerranéens (ATM),INCO,"Tunis, Tunisia",2026-10-08,stage,"Objectifs :
+
+Favoriser la coopération et l'innovation sociale en Méditerranée. La mission vise à soutenir des initiatives à impact positif sur les territoires et à bâtir une communauté engagée de jeunes acteurs s'attaquant aux grands défis sociaux et environnementaux.
+
+Actions :
+
+Intégré au sein de l'équipe INCO Entrepreneurs à Tunis, le/la stagiaire participera activement à la vie du programme ATM :
+
+Sélection & intégration : Appuyer la phase de lancement (rencontre des partenaires relais, tri et analyse des candidatures, logistique des jurys de sélection).
+Suivi & animation : Assurer le lien de proximité quotidien avec les 25 talents (suivi des besoins courants)
+Sessions d'accompagnement : Participer à la mise en œuvre pédagogique et logistique des formats d'apprentissage : préparation des supports, animation des ateliers collectifs et facilitation des sessions de codéveloppement entre participants.
+Organisation de la retraite & événements : Contribuer activement à la conception et à la gestion logistique de la retraite internationale de plusieurs jours à Tunis et à Marseille (préparation du programme, coordination sur place, gestion des espaces de travail)
+Partenariats : Soutenir l'équipe dans le suivi des relations partenaires et la rédaction des livrables
+
+
+
+
+Vous êtes :
+
+Étudiant(e) en Bac +4/5 (École de commerce, Sciences Po, Master en gestion de projet, relations internationales ou éco-innovation) recherchant un stage de fin d'études ou de césure.
+Autonome, très rigoureux(se) et structuré(e), avec une excellente capacité de gestion des priorités et de la logistique.
+Proactif(ve) et polyvalent(e), doté(e) d'un fort esprit d'initiative face aux imprévus terrain.
+À l'aise relationnellement et humainement, capable de créer du lien rapidement et d'animer une communauté de jeunes entrepreneurs/talents.
+Passionné(e) par l'impact social, l'entrepreneuriat et la coopération en région Méditerranée.
+
+
+
+
+Vous maîtrisez :
+
+La gestion de projet et d'événements : Organisation logistique, suivi de livrables et préparation de supports de présentation.
+L'animation de groupe : Aisance à la prise de parole, facilitation d'ateliers ou de sessions collaboratives.
+Les outils bureautiques et collaboratifs : Suite Google / Pack Office, Notion, Canva, WhatsApp, etc.
+Langues : Maîtrise parfaite du français à l'oral et à l'écrit. La maîtrise de l'anglais et/ou de l'arabe est un vrai plus pour le contexte international et local.",https://fr.linkedin.com/company/incogroup,2026-10-16T14:06:18.257244,[],"[""master""]","[""Étudiant(e) en Bac +4/5 (École de commerce, Sciences Po, Master en gestion de projet, relations internationales ou éco-innovation) recherchant un stage de fin d'études ou de césure."", ""La gestion de projet et d'événements : Organisation logistique, suivi de livrables et préparation de supports de présentation.""]",[]
+4407417322,https://tn.linkedin.com/jobs/view/maintenance-trainee-at-rehlko-4407417322,Maintenance - Trainee,Rehlko,"Tunis, Tunis, Tunisia",2026-09-26,stage,"Why Work at Clarke
+
+Our work is guided by our purpose: creating an energy-resilient world for a better future. This purpose embodies the legacy we bring, with more than 100 years as the global leader in energy resilience, delivering solutions critical to sustain and improve life.
+
+Our teams have the opportunity to provide a critical resource – energy – that ensures safety, security, and independence for people around the world. Our team members are focused on pushing boundaries, continuing to innovate in an ever-changing landscape, and keeping up with the pace required to create solutions for today’s world demands.
+
+Our product range includes engines, generators, power conversion, UPS systems, EV components and electrification solutions, microgrid controls and management, and clean energy solutions that serve a broad spectrum of OEM, residential, industrial, and commercial customers. At Rehlko, you have the freedom to identify, create, and deliver solutions – large and small – that help people and communities thrive in the moments that matter.
+
+At Rehlko, our team members are the essential energy that powers our organization’s success. We are committed to fostering a safe and sustainable work environment where safety is everyone’s responsibility. We empower every team member to actively participate in our Zero Is Possible safety culture by encouraging open communication, proactively reporting hazards, following protocols, and suggesting improvements. Join us in creating an energy resilient world for a better future!
 
 What We Offer
 
-- Hands-on experience in a luxury hospitality environment while supporting real marketing and public relations initiatives.
-- Mentorship from experienced Marketing, Communications, and Public Relations professionals.
-- Opportunities to collaborate with multiple departments and gain a comprehensive understanding of luxury hotel operations.
-- Complimentary Employee Meals.
-- Paid Internship
+At Rehlko, our Total Rewards programs are designed to accelerate growth, energize performance, and support a culture of inclusion at every stage of life and work. We offer total rewards that are easily understood, recognize results, enable career mobility, and reflect our commitment to valuing diverse needs in a fast-moving world. We provide:
 
-Schedule & Hours
 
-- Full Time",https://ca.linkedin.com/company/four-seasons-hotels-and-resorts,2026-11-14T09:23:38.937405+00:00,"digital marketing & public relation intern|four seasons|tunis, gouvernorat tunis, tunisie","[""Excel""]","[""unspecified""]","[""- Hands-on experience in a luxury hospitality environment while supporting real marketing and public relations initiatives.""]","[""Marketing and Communication""]",rules
-4483379564,PFE | Technical Support Intern | Incident Clustering and Risk Alert,Regnology,"Gouvernorat Tunis, Tunisie",2026-10-25,https://tn.linkedin.com/jobs/view/pfe-technical-support-intern-incident-clustering-and-risk-alert-at-regnology-4483379564,"At Regnology our greatest asset is our people. We value diversity and foster an inclusive environment that supports learning, safety, and growth. By investing in our team, listening to customers, and encouraging creativity, we drive continuous innovation and improvement.
-We offer a flexible, innovative environment where your ideas matter and your career can thrive.
-Regnology is a global leader in regulatory reporting, helping financial institutions, regulators, and tax authorities improve data quality, efficiency, and cost savings. Our mission: to safeguard financial markets through smarter, future-ready solutions.
+Competitive compensation and benefits
+Work-life flexibility
+Recognition and rewards
+Development and career opportunities
+A safe and inclusive workplace
 
-Project
-Incident Clustering and Risk Alert
 
-Project Description
-This internship offers an opportunity to develop a lightweight incident intelligence Proof of Concept (PoC) for Regnology's Abacus360 Banking Technical Support team. The project focuses on analyzing incoming Jira Service Management tickets and grouping incidents by software layer to identify recurring issues and emerging patterns across the platform.
-You will gain practical exposure to incident classification, data analysis, monitoring, and anomaly detection. You will explore how ticket information and keywords can be used to classify incidents into categories such as Web UI, batch and process execution, data ingestion, calculation services, and database storage.
-Throughout the internship, you will learn how to establish incident baselines, detect unusual increases in incident volumes over rolling periods, and define notification criteria for potential platform-wide or release-related issues. You will also contribute to a dashboard and test alerting workflows in a controlled environment before any live Microsoft Teams escalation.
-The goal is to help the team identify recurring technical issues earlier, improve handovers to R&D, and reduce reliance on informal pattern recognition. All activities will be carried out under mentor supervision, with customer data handled only within approved systems.
+Why You Will Love this Job
 
-About the Team
-You will join the CS Support Tech team for Abacus360 Banking, a specialized technical operations unit within Regnology's Customer Success organization. Our team ensures the stability and performance of Regnology's regulatory reporting platform, supporting banking clients and helping resolve complex technical issues.
-Operating across worldwide hubs, we serve as a key link between banking clients and R&D engineers, investigating environment anomalies, diagnosing technical incidents, and supporting the reliable operation of the platform.
-Our daily work involves collaboration with clients and engineering teams to troubleshoot technical issues, investigate system behavior, and resolve high-priority incidents. Using technologies such as Kubernetes, SQL, and Java, we support the performance and reliability of regulatory reporting solutions used by financial institutions worldwide.
+La stagiaire va créer 2 dashboards pour le département service pour le suivi de performance du département.
 
-Responsibilities
-During this internship, you will have the opportunity to:
+About Us
 
-- Analyze incoming Jira Service Management tickets and identify relevant fields and keywords for incident classification.
-- Develop a lightweight, rules-based classifier to group incidents according to agreed software layers and technical components.
-- Organize incidents into categories such as Web UI, batch and process execution, data ingestion, SQLX/Spark calculations, DAAL services, ClickHouse/Oracle/Trino storage, and Embedded components.
-- Identify recurring issues and incident patterns to make clusters of related incidents more visible.
-- Establish incident baselines and define methods for detecting unusual increases in incident volumes over rolling periods.
-- Define rules and thresholds for notifying the team about potential release-related or platform-wide problems.
-- Contribute to the development of a dashboard to visualize incident clusters, trends, and potential risk areas.
-- Test alerting workflows in a controlled environment before introducing any live Microsoft Teams escalations.
-- Document classification rules, detection criteria, notification procedures, and project findings.
-- Collaborate with experienced team members and mentors to validate the PoC and improve its usefulness for technical support and R&D handovers.
-- Follow data protection requirements and ensure that customer information is handled only within approved systems.
+Clarke proudly offers a rich history steeped in creativity and commitment to our associates and communities, along with competitive benefits and compensation. Our Purpose—Creating an energy resilient world for a better future—and Values: Curiosity, Trust, Pace, and Excellence, are important cultural components that shape the way we work and relate to one another. Learn more about Clarke at https://www.rehlko.com/who-we-are. In addition to the investment in your development, Clarke offers a benefits package including a competitive salary, health, vision, dental, 401(k) with Rehlko matching, and more!?""
 
-Tools
-Linux, Java, Python, APIs (e.g., Postman), SQL and databases, Jira Service Management, monitoring tools (e.g., Grafana, Google Cloud Monitoring), AI tools and MCP integrations.
+Clarke is an equal opportunity employer that prohibits discrimination and will make decisions regarding employment opportunities, including, but not limited to, hiring, job assignment, compensation, promotion, benefits, training, discipline, and termination, without regard to race, creed, color, ethnicity, religion, sex, pregnancy, childbirth, or related medical conditions, genetic information, age, national origin, citizenship, ancestry, caste, mental or physical disability, marital or familial status, sexual orientation, gender identity or expression, genetic information, political belief or affiliation, union membership status, military status, veteran status, or any other characteristic protected by national, state, local, or other applicable laws.
 
-Why we should decide on you
-We are looking for a motivated final-year student currently pursuing a degree in Computer Science, Information Technology, or a related field, who is curious about data analysis, incident management, monitoring, and the role of technology in financial services.
+Our Values
 
-Academic background
+Curiosity – Seek, learn, share
 
-- Final-year student in Computer Science, Information Technology, or a related technical field.
-- A solid interest in data analysis, software systems, technical troubleshooting, and monitoring.
+Trust – Go farther together
 
-Skills and Qualities
+Pace – Focus to go faster
 
-- Strong analytical thinking and a structured approach to problem-solving.
-- Attention to detail when analyzing incident information and identifying recurring patterns.
-- Interest in classification methods, monitoring, trend analysis, or anomaly detection.
-- Familiarity with the tools and technologies listed above is a plus, but not mandatory; a willingness to learn and develop technical skills is highly valued.
-- Good communication skills and an ability to collaborate with technical teams.
-- A proactive mindset, intellectual curiosity, and willingness to learn.
-- Ability to adapt to a fast-paced, international working environment.
-- Awareness of data confidentiality and the importance of handling customer information securely.
+Excellence – Find the win every day",https://www.linkedin.com/company/rehlko,2026-10-16T14:06:23.202132,[],"[""unspecified""]",[],[]
+4437404291,https://tn.linkedin.com/jobs/view/technicien-d-%C3%A9tudes-at-segula-technologies-4437404291,Technicien d'études,SEGULA Technologies,"Tunis, Tunis, Tunisia",2026-10-03,stage,"Conception & développement de pièces plastiques
 
-Recruitment Process
+Analyser les demandes de travaux (contraintes techniques, environnement mécanique) et identifier les enjeux et difficultés potentielles du projet.
 
-- HR Interview: An initial interview with our Talent Acquisition Manager to discuss your academic background, motivation, communication skills, and interest in the internship opportunity.
-- Technical Interview: Shortlisted candidates will then be invited to a technical interview designed to assess:
-- Basic knowledge of computer science and IT fundamentals.
-- Analytical thinking and technical problem-solving skills.
-- Familiarity with programming, databases, APIs, or monitoring concepts.
-- Ability to reason about incident classification, recurring patterns, and unusual changes in incident volumes.
-- Motivation to learn about incident intelligence, monitoring, and FinTech engineering.Interest in the project and its responsibilities.
+Conception 3D (Catia V5 / Siemens NX)
 
-If you are eager to explore the intersection of technical support, data analysis, and incident intelligence, this internship is an opportunity to develop your technical skills in an international professional environment and gain valuable insight into monitoring and troubleshooting enterprise regulatory reporting platforms.
+Concevoir les pièces plastiques injectées (Part Design, Generative Shape Design) en intégrant :
 
-Apply now!",https://de.linkedin.com/company/regnology,2026-11-14T09:23:42.228411+00:00,"pfe | technical support intern | incident clustering and risk alert|regnology|gouvernorat tunis, tunisie","[""Python"", ""Java"", ""SQL"", ""Data Analysis"", ""Kubernetes"", ""Linux""]","[""unspecified""]",[],"[""Data Analysis"", ""Cloud and DevOps"", ""Technical Support"", ""Marketing and Communication""]",rules
+
+Surfaces de style et pièces fonctionnelles
+Points fixes et systèmes de référence dans l'environnement mécanique
+Mise en épaisseur et intégration technique
+Raccords surfaciques et bords techniques (anti-retassures)
+Règles de démoulabilité (mouvements de cales pour pièces complexes)
+Techniques de maintien, assemblage, jonction et accostage des pièces
+Analyse de clash et de proximité entre pièces
+
+
+Documentation technique
+
+Produire les dessins 2D (Catia Drawing) avec cotation fonctionnelle, pour les besoins internes et les fournisseurs.
+
+Relation fournisseurs
+
+Collaborer avec les fournisseurs de pièces plastiques injectées sur le développement des moules.
+
+Compétences complémentaires appréciées : maîtrise d'un outil PLM, expertise en injection plastique.
+
+Compétences techniques
+
+
+Excellente maîtrise des outils CAD 3D (Catia V5 ou Siemens NX : Part Design, GSD) et de la mise en plan 2D avec cotation fonctionnelle (GD&T)
+Connaissance de l'outillage d'injection plastique (mécanismes de démoulage : lifters, sliders, plans de joint, contacts acier/acier...)
+Connaissance des textures/grains et des angles de dépouille associés
+
+
+Qualités personnelles
+
+
+Passion pour la mécanique, l'automobile et les disciplines techniques
+Esprit d'équipe, curiosité, engagement et goût du partage des connaissances
+Dynamisme, positivité et entreprenariat, porté par des valeurs humaines fortes
+
+
+Formation & profil
+
+
+Niveau Bac+3, Technicien Supérieur en Mécanique
+Aucune expérience requise (poste ouvert aux jeunes diplômés)
+Français / Anglais B2
+Logiciels : Pack Office, Catia V5
+
+
+SEGULA Technologies is a global engineering group, boosting the competitiveness of all major industrial sectors: automotive, aerospace, energy, rail, naval, life sciences, and telecoms. With a presence in more than 30 countries and 140 locations worldwide, the Group prioritizes close relationships with its clients, driven by the expertise of its 15,000 employees. As a leading engineering player putting innovation at the heart of its strategy, SEGULA Technologies manages large-scale projects, ranging from initial studies to industrialization and production. SEGULA TECHNOLOGIES is dedicated to gender balance and diversity, recognizing and recruiting talent of all backgrounds.",https://fr.linkedin.com/company/segula-technologies,2026-10-16T14:06:27.503173,[],"[""engineering""]","[""Analyser les demandes de travaux (contraintes techniques, environnement mécanique) et identifier les enjeux et difficultés potentielles du projet.""]",[]
+4476035635,https://tn.linkedin.com/jobs/view/junior-quality-analyst-at-linedata-4476035635,Junior Quality Analyst,Linedata,"Tunis, Tunis, Tunisia",2026-10-12,stage,"We are looking for a Junior Quality Analyst to join our team and contribute to delivering high-quality software solutions. You will work closely with Business Analysts, Developers, Product Owners, and Quality Assurance professionals to ensure our applications meet functional and business requirements.
+
+This is an excellent opportunity for motivated graduates who are eager to learn, develop their analytical skills, and grow within a dynamic and collaborative environment.
+
+Key Responsibilities
+
+
+Review and understand business and functional requirements.
+Design and execute functional test cases and test scenarios.
+Identify, document, and track software defects.
+Perform regression, integration, and user acceptance testing activities.
+Collaborate with cross-functional teams to ensure product quality.
+Participate in test planning, execution, and reporting.
+Contribute to continuous improvement of testing processes and best practices.
+Ensure that delivered solutions meet quality standards and user expectations.
+
+
+Education
+
+Bachelor’s or Master’s degree in Business Analysisor any other relevant discipline.
+
+Commitment to Diversity
+
+We recognize, celebrate, and seek to increase diversity across our organization. Diversity is an asset to organizations and is linked to better performance. It is an integral part of how we do business and imperative to our success. As an international Group, we also believe that our people need to reflect our clients and local communities.
+
+Linedata is an Equal Opportunity Employer. We are committed to complying with all federal, state, and local laws providing equal employment opportunities, and all other employment laws and regulations.
+
+It is our intent to maintain a work environment that is free of harassment, discrimination, or retaliation based on an individual's race, color, religion, religious creed, national origin, ancestry, citizenship, physical or mental disability, medical condition, genetic information, marital status, sex, gender, age, sexual orientation, veteran and/or military status, protected medical leaves, domestic violence victim status, political affiliation, or any other status protected by federal, state, or local laws.",https://fr.linkedin.com/company/linedata,2026-10-16T14:06:32.465948,[],"[""master"", ""license""]",[],[]
+4479546026,https://tn.linkedin.com/jobs/view/traducteur-at-veo-worldwide-services-4479546026,Traducteur,VEO Worldwide Services,"Sousse, Tunisia",2026-10-14,stage,"Prêt à entrer dans le monde passionnant des services B2B ? Découvrez VEO Worldwide – votre porte d'entrée vers une carrière dynamique !
+
+Depuis 19 ans, nous révolutionnons le secteur des affaires en Europe. Notre aventure a commencé lorsque NOZ, le leader européen du déstockage, a commencé à s'étendre en Europe de l'Est et en Afrique en 2006. Nous avons été immédiatement inspirés par leur vision et leur dynamisme. Chez Veo, nous sommes déterminés à trouver des solutions innovantes pour aider les entreprises à tirer le meilleur parti de leurs stocks invendus – comme les anciennes collections, les produits à date courte et les commandes annulées. L'efficacité est notre maître mot ! Et ce n’est pas tout : nous avons des bureaux dans 9 pays, et nous sommes ravis d'annoncer l'ouverture d'un nouveau bureau en Inde en 2024 ! Rejoignez-nous et faites partie d'une équipe engagée envers des valeurs telles que l'engagement, la transparence, la solidarité, l'amélioration continue et la compétence. Ces valeurs ne sont pas que des mots – elles guident tout ce que nous faisons. Faisons la différence ensemble ! Nous souhaitons renforcer notre équipe à Sousse et recruter "" Traducteur"".
+
+
+
+
+Principales responsabilités :
+
+• Gère le portefeuille de traduction conformément aux objectifs quantitatifs et qualitatifs fixés par le chef d'équipe ;
+
+• Traduit les étiquettes et manuels d'utilisation en français pour tous les types de produits vendus dans les magasins NOZ ;
+
+• Identifie les fichiers/images de langue source et s'assure que les éléments obligatoires de l'étiquette sont présents ;
+
+• Vérifie la conformité des documents sources pour les traductions selon les règles d'étiquetage définies par le client ;
+
+• Vérifie l'archive de traduction pour la réutilisation des étiquettes traduites ;
+
+• Garantit que les règles juridiques liées à la traduction des étiquettes de produits sont appliquées ;
+
+• Effectue le reporting quotidien des traductions ;
+
+• Vérifie et corrige les traductions avant leur livraison dans le format final, en veillant à la qualité conforme aux demandes du client ;
+
+• Demande les informations nécessaires au client en cas de données incomplètes (composants d'étiquetage obligatoires manquants, images peu claires, etc.) ;
+
+• Garantit que les traductions urgentes sont effectuées dans les 24 heures ;
+
+• Priorise les activités urgentes et respecte les délais ;
+
+• Participe à l'amélioration des processus au sein du service de traduction, contribuant ainsi à rationaliser les activités actuelles.
+
+
+
+
+• Lieu de travail : Sousse
+
+Niveau d'éducation / Langues étrangères / Compétences techniques :
+
+• Niveau d'éducation : enseignement supérieur.
+
+• Langues étrangères : Français - niveau C1 ; Anglais, Allemand, Italien, Espagnol - niveau minimum B2.
+
+• Compétences techniques : Microsoft Office (Excel, Word, Power Point), Outlook Mail.
+
+• Programmes utilisés : Selligent, SAP.
+
+• Connaissance des traductions techniques.
+
+Expérience :
+
+• Minimum 6 mois dans le domaine de la traduction.
+
+Compétences clés :
+
+• Planification et organisation / Respect des délais ;
+
+• Gestion du temps / Capacité à prioriser les activités ;
+
+
+
+
+• Les avantages :
+
+• Un contrat CDI
+
+• Une rémunération attractive (Fixe + Variables)
+
+• Une formation initiale assurée ainsi que des formations continues à l’étranger
+
+• Un encadrement spécifique et un environnement stable
+
+• Un cadre de travail agréable
+
+• Une équipe de travail jeune et dynamique",https://ro.linkedin.com/company/veo-worldwide-services,2026-10-16T14:06:36.245982,"[""Excel""]","[""unspecified""]",[],[]
